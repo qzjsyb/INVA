@@ -1,0 +1,499 @@
+ID,formula,adduct,ion,mz,fdr,moleculeNames
+APEBA001,C10H16N2O3,M[M]+,C10H16N2O3+,212.1155218,0.05,"Proline,prolyl-"
+APEBA002,CH2O,M[M]+,CH2O+N2H22C18Br+,375.1066308,0.05,Aldehydes
+APEBA003,C3H2O,M[M]+,C3H2O+N2H22C18Br+,399.1066308,0.1,2-Propyn-1-al
+APEBA004,C3H4O,M[M]+,C3H4O+N2H22C18Br+,401.1222808,0.1,acrolein
+APEBA005,C2H2O2,M[M]+,C2H2O2+N2H22C18Br+,403.1015454,0.05,Ethanedial
+APEBA006,C2H5NO,M[M]+,C2H5NO+N2H22C18Br+,404.1331799,0.1,"Acetaldehyde oxime, N-Methylformamide"
+APEBA007,C2H7NO,M[M]+,C2H7NO+N2H22C18Br+,406.1488299,0.1,2-Aminoethanol
+APEBA008,C4H4O,M[M]+,C4H4O+N2H22C18Br+,413.1222808,0.1,3-Butynal
+APEBA009,C3H2O2,M[M]+,C3H2O2+N2H22C18Br+,415.1015454,0.1,prop-2-ynoic acid
+APEBA010,C3H4O2,M[M]+,C3H4O2+N2H22C18Br+,417.1171954,0.05,2-Oxopropanal
+APEBA011,C2H2O3,M[M]+,C2H2O3+N2H22C18Br+,419.09646,0.1,Glyoxyl acid
+APEBA012,C3H6S,M[M]+,C3H6S+N2H22C18Br+,419.115087,0.1,"1,2-Epithiopropane"
+APEBA013,C4H4O2,M[M]+,C4H4O2+N2H22C18Br+,429.1171954,0.1,4-Hydroxy-2-butenoic acid gamma-lactone
+APEBA014,C5H8O,M[M]+,C5H8O+N2H22C18Br+,429.153581,0.1,"2-Methylbut-2-en-1-al, 2-Pentenal, 4-Pentenal"
+APEBA015,C4H6O2,M[M]+,C4H6O2+N2H22C18Br+,431.1328455,0.1,"2-methylprop-2-enoic acid, Acetic acid,ethenyl ester, diacetyl, oxolan-3-one"
+APEBA016,C5H10O,M[M]+,C5H10O+N2H22C18Br+,431.169231,0.1,"2-Butanone,3-methyl-, 2-Methylbutan-1-al, 2-Penten-1-ol, 2-Penten-1-ol,(2Z)-, 3-Pentanone, 3-penten-2-ol, Cyclopentanol, pent-1-en-2-ol, pent-4-en-1-ol"
+APEBA017,C3H5NO2,M[M]+,C3H5NO2+N2H22C18Br+,432.1280945,0.1,2-aminoacrylate
+APEBA018,C3H4O3,M[M]+,C3H4O3+N2H22C18Br+,433.1121101,0.05,"2-Oxopropanoic acid, 3-Oxopropanoic acid"
+APEBA019,C4H8O2,M[M]+,C4H8O2+N2H22C18Br+,433.1484956,0.1,Butyric acid
+APEBA020,C3H7NO2,M[M]+,C3H7NO2+N2H22C18Br+,434.1437446,0.05,"2-(methylamino)acetic acid, alpha-Alanine, beta-Alanine"
+APEBA021,C5H8O2,M[M]+,C5H8O2+N2H22C18Br+,445.1484956,0.1,"2-Butenoic acid methyl ester, 2-Ethylacrylic acid, 2-Pentenoic acid, 3-methyl-4-cis-hydroxy-2-butenal, 3-methyl-4-trans-hydroxy-2-butenal, prop-1-en-2-yl acetate"
+APEBA022,C6H12O,M[M]+,C6H12O+N2H22C18Br+,445.1848811,0.05,"(4E)-hex-4-en-2-ol, 2-Hexen-1-ol,(2E)-, 4-Methylpentanal, 5-Hexenol, cis-3-Hexanol = (3Z)-hex-3-en-1-ol, Hex-3-en-1-al = hex-3-en-1-ol, hexan-3-one, Hex-trans-3-en-1-ol = (3E)-hex-3-en-1-ol"
+APEBA023,C4H7NO2,M[M]+,C4H7NO2+N2H22C18Br+,446.1437446,0.1,1-aminocyclopropane-1-carboxylate
+APEBA024,C5H11NO,M[M]+,C5H11NO+N2H22C18Br+,446.1801301,0.1,"5-Aminopentanal, Propanamide,N-ethyl-"
+APEBA025,C6H14O,M[M]+,C6H14O+N2H22C18Br+,447.2005311,0.05,"2-Hexanol, 2-Methylpentan-2-ol, 2-Methylpentan-3-ol, 3-Methylpentan-2-ol, 3-Methylpentan-3-ol, D-3-Methyl pentanol"
+APEBA026,C4H9NO2,M[M]+,C4H9NO2+N2H22C18Br+,448.1593946,0.05,"(R)-3-amino-2-methylpropanoate, 3-Aminoisobutanoic acid, 4-aminobutanoate, alpha-Amino butyric acid"
+APEBA027,C5H12S,M[M]+,C5H12S+N2H22C18Br+,449.1620372,0.1,"2-(ethylsulfanyl)propane, 1-Pentanethiol"
+APEBA028,C3H6O4,M[M]+,C3H6O4+N2H22C18Br+,451.1226747,0.1,"(2S)-2,3-dihydroxypropanoic acid, glyceric acid"
+APEBA029,C6H7NO,M[M]+,C6H7NO+N2H22C18Br+,454.1488299,0.05,"2-Acetylpyrrole, 3-Methoxypyridine, 4-aminophenol"
+APEBA030,C5H4O3,M[M]+,C5H4O3+N2H22C18Br+,457.1121101,0.1,3-Furoic acid
+APEBA031,C4H6N2O2,M[M]+,C4H6N2O2+N2H22C18Br+,459.1389935,0.1,"3-cyano-L-alanine, 5,6-dihydrouracil, beta-Cyanoalanine"
+APEBA032,C5H9NO2,M[M]+,C5H9NO2+N2H22C18Br+,460.1593946,0.05,"3-acetamidopropanal, pyrrolidine-2-carboxylic acid"
+APEBA033,C4H4O4,M[M]+,C4H4O4+N2H22C18Br+,461.1070247,0.1,2-Butenedioic acid
+APEBA034,C6H12S,M[M]+,C6H12S+N2H22C18Br+,461.1620372,0.1,"2,5-Dimethyltetrahydrothiophene, 2-Methyl-1-methylthio-2-butene, Allylpropyl sulfide"
+APEBA035,C7H16O,M[M]+,C7H16O+N2H22C18Br+,461.2161812,0.1,"1-methoxyhexane, 4-methyl-1-hexanol"
+APEBA036,C5H11NO2,M[M]+,C5H11NO2+N2H22C18Br+,462.1750447,0.05,"(+)-Valine, (Trimethylammonio)acetate, 3-methylbutyl nitrite, 5-Aminopentanoic acid, Alanine,N,2-dimethyl-, ????/ N,N-dimethyl-β-alanine"
+APEBA037,C6H14S,M[M]+,C6H14S+N2H22C18Br+,463.1776873,0.1,"Propane,1,1'-thiobis-"
+APEBA038,C8H8O,M[M]+,C8H8O+N2H22C18Br+,465.153581,0.1,"3-Methylbenzaldehyde, 4-Vinlyphenol"
+APEBA039,C6H5NO2,M[M]+,C6H5NO2+N2H22C18Br+,468.1280945,0.1,"2-Pyridinecarboxylic acid, 3-Pyridinecarboxylic acid"
+APEBA040,C7H8O2,M[M]+,C7H8O2+N2H22C18Br+,469.1484956,0.1,"3-Methylcatechol, Beechwood,creosote (fagus spp.), Benzenemethanol,2-hydroxy-"
+APEBA041,C5H8N2O2,M[M]+,C5H8N2O2+N2H22C18Br+,473.1546436,0.05,"5,6-dihydrothymine"
+APEBA042,C5H7NO3,M[M]+,C5H7NO3+N2H22C18Br+,474.1386592,0.05,"2-oxopyrrolidine-1-carboxylic acid, 3-Hydroxy-3,4-dihydro-2H-pyrrole-5-carboxylic acid, 4-Hydroxy-3,4-dihydro-2H-pyrrole-2-carboxylic acid, 5-Oxo-L-proline"
+APEBA043,C5H6O4,M[M]+,C5H6O4+N2H22C18Br+,475.1226747,0.1,"2-Methylenesuccinic acid, 4,5-dioxopentanoic acid, pent-2-enedioic acid"
+APEBA044,C4H4O5,M[M]+,C4H4O5+N2H22C18Br+,477.1019393,0.1,2-Oxosuccinic acid
+APEBA045,C4H8N2O3,M[M]+,C4H8N2O3+N2H22C18Br+,477.1495582,0.05,"2-[(C-hydroxycarbonimidoyl)(methyl)amino]acetic acid, 3-ureidopropionate, asparagine"
+APEBA046,C4H7NO4,M[M]+,C4H7NO4+N2H22C18Br+,478.1335738,0.05,"(2S)-2-aminobutanedioic acid, Glycine,N-(carboxymethyl)-"
+APEBA047,C4H6O5,M[M]+,C4H6O5+N2H22C18Br+,479.1175894,0.05,"malate, (S)-malate, 2-hydroxybutanedioic acid"
+APEBA048,C5H10S2,M[M]+,C5H10S2+N2H22C18Br+,479.1184579,0.05,"1,2-Dimercaptocyclopentane"
+APEBA049,C7H6O3,M[M]+,C7H6O3+N2H22C18Br+,483.1277601,0.1,"Benzaldehyde,2,5-dihydroxy-, verrugon, 4-hydroxybenzoic acid"
+APEBA050,C9H16O,M[M]+,C9H16O+N2H22C18Br+,485.2161812,0.1,"(4E)-non-4-enal, (E)-3-nonenal, (Z)-2-nonenal, (Z)-3-nonenal, 1-nonen-3-one, 4-ethyl-6-hepten-3-one"
+APEBA051,C6H7NO3,M[M]+,C6H7NO3+N2H22C18Br+,486.1386592,0.1,2-Aminomuconic acid semialdehyde
+APEBA052,C8H14O2,M[M]+,C8H14O2+N2H22C18Br+,487.1954458,0.1,"3-Octenoic acid, ethyl (2E)-2-methylpent-2-enoate, ethyl (3Z)-hex-3-enoate, ethyl hex-2-enoate, ethyl hex-5-enoate, prop-2-en-1-yl pentanoate, propyl (2Z)-2-methylbut-2-enoate, (2Z)-2-Hexen-1-yl acetate, (3E)-hex-3-en-1-yl acetate, (5Z)-oct-5-enoic acid, 2-Octenoic acid"
+APEBA053,C9H18O,M[M]+,C9H18O+N2H22C18Br+,487.2318313,0.1,2-Nonen-1-ol
+APEBA054,C9H20O,M[M]+,C9H20O+N2H22C18Br+,489.2474813,0.1,2-Nonanol
+APEBA055,C5H11N3O2,M[M]+,C5H11N3O2+N2H22C18Br+,490.1811927,0.1,"Butanoic acid,4-[(aminoiminomethyl)amino]-"
+APEBA056,C5H6O5,M[M]+,C5H6O5+N2H22C18Br+,491.1175894,0.1,"2-Butenedioic acid,2-methoxy-,(2E)-, 2-oxoglutarate"
+APEBA057,C6H10S2,M[M]+,C6H10S2+N2H22C18Br+,491.1184579,0.1,"2,3-Dimethyl-5,6-dithia-bicyclo[2.1.1]-hexane-5-oxide, 3-[(1E)-prop-1-en-1-yldisulfanyl]prop-1-ene, cis-1-Propenyl allyl disulfide, Di-2-propenyl disulfide = 3-(prop-2-en-1-yldisulfanyl)prop-1-ene"
+APEBA058,C5H10N2O3,M[M]+,C5H10N2O3+N2H22C18Br+,491.1652083,0.1,"3-(Carbamoylamino)-2-methylpropanoic acid, Alanylglycine, D-Alanyl glycine, L-Glutamine"
+APEBA059,C6H14N2O2,M[M]+,C6H14N2O2+N2H22C18Br+,491.2015938,0.1,"(3S,5S)-3,5-Diaminohexanoic acid, 6-Diaminohexanoate is then reversibly converted to (3S, D-Lysine"
+APEBA060,C5H8O5,M[M]+,C5H8O5+N2H22C18Br+,493.1332394,0.1,"(3R,4S,5R)-3,4,5-trihydroxyoxan-2-one, D-Arabinono-1,4-lactone, 3-Hydroxyglutaric acid"
+APEBA061,C6H12S2,M[M]+,C6H12S2+N2H22C18Br+,493.1341079,0.1,"3-(Propyldisulfanyl)-1-propene, cis-Propenyl propyl disulfide, Disulfide,(1E)-1-propen-1-yl propyl"
+APEBA062,C5H10O5,M[M]+,C5H10O5+N2H22C18Br+,495.1488895,0.1,"2-Deoxyribonic acid, Arabinofuranose, beta-D-Ribopyranose, D-Ribose, D-Xylopyranose, D-Xylose, D-Xylulose, L-Arabinose, L-Xylulose, Pentose, Polygalacturonase,9CI"
+APEBA063,C6H14S2,M[M]+,C6H14S2+N2H22C18Br+,495.149758,0.1,"1-(propan-2-yldisulfanyl)propane, 3-methyl-1-(methyldisulfanyl)butane, Butyl ethyl disulfide"
+APEBA064,C8H8O3,M[M]+,C8H8O3+N2H22C18Br+,497.1434102,0.1,"2-Hydroxy-4-methoxybenzaldehyde, 2-hydroxyphenylacetate, 3,4-Dihydroxyphenylacetaldehyde, 3-Methylsalicylic acid, 4-Hydroxy-3-methylbenzoic acid, Anisic acid, Benzeneacetic acid,alpha-hydroxy-,(alphaS)-, Dihydroxyacetophenone, methyl (2E)-3-(furan-2-yl)prop-2-enoate, Vanillin"
+APEBA065,C4H10S3,M[M]+,C4H10S3+N2H22C18Br+,499.0905286,0.1,"2,4,6-Trithiaheptane"
+APEBA066,C7H6O4,M[M]+,C7H6O4+N2H22C18Br+,499.1226747,0.05,"3,4-Dihydroxybenzoic acid, 3,5-Dihydroxyphenylbenzoic acid, 4-Hydroxy-4H-furo[3,2-c]pyran-2(6H)-one, Benzoic acid,2,6-dihydroxy-"
+APEBA067,C6H4O5,M[M]+,C6H4O5+N2H22C18Br+,501.1019393,0.1,"2,5-Furandicarboxylate"
+APEBA068,C9H18O2,M[M]+,C9H18O2+N2H22C18Br+,503.2267459,0.1,"2-Heptyl acetate, 2-Methylbutylbutyrate, 2-methylpropyl 2-methylbutanoate, 3-Heptyl acetate, 3-Octyl formate, 4-Methyl-2-pentyl-1,3-dioxolane, 5-Methylhexyl acetate"
+APEBA069,C6H12N2O3,M[M]+,C6H12N2O3+N2H22C18Br+,505.1808583,0.1,2-(2-aminopropanamido)propanoic acid
+APEBA070,C8H16O3,M[M]+,C8H16O3+N2H22C18Br+,505.2060104,0.1,"(+/-)-Ethyl 2-hydroxy-3-methylvalerate, (2R)-2-hydroxyoctanoic acid, 1,3-Dioxolane-4-methanol,2-(2-methylpropyl)-, 2-Hydroxyoctanoic acid, 3-Hydroxyoctanoic acid, 7-Hydroxyoctanoic acid"
+APEBA071,C9H9NO2,M[M]+,C9H9NO2+N2H22C18Br+,508.1593946,0.1,"3-Hydroxy-3-methyl-1,3-dihydro-2H-indol-2-one, 4-(3-Pyridyl)-3-butenoic acid"
+APEBA072,C8H9NO3,M[M]+,C8H9NO3+N2H22C18Br+,512.1543092,0.05,5-Hydroxy-4-(hydroxymethyl)-6-methylnicotinaldehyde
+APEBA073,C8H8O4,M[M]+,C8H8O4+N2H22C18Br+,513.1383248,0.05,"2-(3,4-dihydroxyphenyl)-2-hydroxyacetaldehyde, 3,4-dihydroxyphenylacetate, 3-Hydroxymandelic acid, Benzeneacetic acid,2,5-dihydroxy-, Vanillic acid"
+APEBA074,C10H18O2,M[M]+,C10H18O2+N2H22C18Br+,515.2267459,0.1,"(+)-Angelicoidenol, (1E)-1-Octen-1-yl acetate, (1R,4S)-1-methyl-4-(prop-1-en-2-yl)cyclohexane-1,2-diol, (3E)-hex-3-en-1-yl butanoate, (6E)-8-hydroxygeraniol, 1-methyl-4-(prop-1-en-2-yl)cyclohexane-1,2-diol, 1-Octen-3-yl acetate, 1-p-Menthene-8,9-diol, 2,6-Dimethylocta-1,7-diene-3,6-diol, 2,6-dimethylocta-3,7-diene-2,6-diol, 2,6-Dimethylocta-cis-2,7-diene-1,6-diol, 2,6-Dimethylocta-trans-2,7-dien-1,6-diol, 2-Furanmethanol,5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, 2-Methylbutyl 3-methyl-2-butenoate, 2-octenioc acid, 3-Methyl-2,4-nonanedione, 3-Methylbutyl angelate, 4-Hydroxypiperitone, 4-oxodecanal, 5-(3,3-dimethyloxiran-2-yl)-3-methylpent-1-en-3-ol, 6-Pentyltetrahydro-2H-pyran-2-one, 8-Methylnonenoate, 9,10-Cyclo-2,4-menthanediol, Butanoic acid,(3Z)-3-hexen-1-yl ester, Butanoic acid,3-hexen-1-yl ester, cis-4-Decenoic acid, cis-Epoxydihydrolinalool, ethyl (3E)-oct-3-enoate"
+APEBA075,C11H22O,M[M]+,C11H22O+N2H22C18Br+,515.2631314,0.1,"(1E)-1-methoxydec-1-ene, 2-methoxy-4-methyl-1-(propan-2-yl)cyclohexane"
+APEBA076,C7H15N3O2,M[M]+,C7H15N3O2+N2H22C18Br+,518.2124928,0.1,Calmodulin
+APEBA077,C7H7FO2S,M[M]+,C7H7FO2S+N2H22C18Br+,519.1111445,0.05,Benzenemethanesulfonyl fluoride
+APEBA078,C6H6O6,M[M]+,C6H6O6+N2H22C18Br+,519.112504,0.05,"5-(1,2-DIHYDROXYETHYL)-2,3,4(5H)-FURANTRIONE, cis-aconitate"
+APEBA079,C7H10O5,M[M]+,C7H10O5+N2H22C18Br+,519.1488895,0.1,"(2S)-2-isopropyl-3-oxosuccinate, (3R,4S,5R)-3,4,5-Trihydroxy-1-cyclohexene-1-carboxylic acid, Shikimic acid"
+APEBA080,C6H14N4O2,M[M]+,C6H14N4O2+N2H22C18Br+,519.2077418,0.05,"[1-(carbamoylamino)-2-methylpropyl]urea, L-Arginine, D-Arginine"
+APEBA081,C10H9NO2,M[M]+,C10H9NO2+N2H22C18Br+,520.1593946,0.1,"1-Methoxyindole-3-carbaldehyde, 2-(1H-indol-3-yl)acetic acid, 5-ethenyl-1H,3H,4H-pyrano[3,4-c]pyridin-1-one, 5-hydroxyindole acetaldehyde, Hydroxy(1H-indol-3-yl)acetaldehyde"
+APEBA082,C6H8O6,M[M]+,C6H8O6+N2H22C18Br+,521.1281541,0.05,"(5R)-5-[(1S)-1,2-Dihydroxyethyl]-3,4-dihydroxy-2(5H)-furanone, 5-(1,2-Dihydroxyethyl)-3,4-dihydroxy-2(5H)-furanone"
+APEBA083,C4H8N4O4,M[M]+,C4H8N4O4+N2H22C18Br+,521.1506209,0.1,allantoate
+APEBA084,C6H12O6,M[M]+,C6H12O6+N2H22C18Br+,525.1594542,0.05,"monoglucoside, (2R,3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol =  beta-D-Glucopyranose, 1D-chiro-inositol, 2,3,4,5,6-pentahydroxyhexanal = β-D-galactose, 3-Deoxyarabinohexonic acid, 6-(hydroxymethyl)oxane-2,3,4,5-tetrol = beta D-glucose, alpha-D-Galactose, D-Fructose, D-Galactose, Dihydroxyacetone (dimer), L-Allose, L-Gulose, D-mannose, D-glucose"
+APEBA085,C7H8N4O2,M[M]+,C7H8N4O2+N2H22C18Br+,525.1607916,0.05,"1H-Purine-2,6-dione,3,7-dihydro-1,7-dimethyl-"
+APEBA086,C7H4O6,M[M]+,C7H4O6+N2H22C18Br+,529.0968539,0.1,Chelidonic acid
+APEBA087,C7H9NO5,M[M]+,C7H9NO5+N2H22C18Br+,532.1441385,0.1,"(2S,4S)-4-hydroxy-2,3,4,5-tetrahydropyridine-2,6-dicarboxylic acid"
+APEBA088,C9H21N3O,M[M]+,C9H21N3O+N2H22C18Br+,532.2645284,0.05,N-{4-[(3-aminopropyl)amino]butyl}acetamide
+APEBA089,C9H16O4,M[M]+,C9H16O4+N2H22C18Br+,533.2009251,0.05,"(+/-)-Ethyl 3-acetoxy-2-methylbutyrate, (+/-)-Methyl 5-acetoxyhexanoate, (2S)-2-pentylbutanedioic acid, cis- and trans-Ethyl 2,4-dimethyl-1,3-dioxolane-2-acetate"
+APEBA090,C6H8O7,M[M]+,C6H8O7+N2H22C18Br+,537.1230687,0.05,"citric acid, dehydroascorbate (bicyclic form), 4,5,6-trihydroxy-2,3-dioxohexanoic acid, 3,4-dihydroxy-5-(hydroxymethyl)-2-oxooxolane-3-carboxylic acid"
+APEBA091,C7H12O6,M[M]+,C7H12O6+N2H22C18Br+,537.1594542,0.1,"quinic acid, Butanedioic acid,2,3-dihydroxy-,mono(1-methylethyl) ester,(2R,3R)-"
+APEBA092,C6H12O7,M[M]+,C6H12O7+N2H22C18Br+,541.1543688,0.05,"2,3,4,5,6-pentahydroxyhexanoic acid, Dextranase"
+APEBA093,C9H10O5,M[M]+,C9H10O5+N2H22C18Br+,543.1488895,0.1,"3-(3,4-Dihydroxyphenyl)lactic acid, 3,4-O-Dimethylgallic acid, Syringic acid, 2-hydroxy-2-(4-hydroxy-3-methoxy-phenyl)acetic acid/ (+/-)-Vanillylmandelic Acid"
+APEBA094,C9H16N2O3,M[M]+,C9H16N2O3+N2H22C18Br+,545.2121585,0.1,(5-acetamido-6-methoxy-6-oxohexyl)azaniumyl
+APEBA095,C12H24O2,M[M]+,C12H24O2+N2H22C18Br+,545.2736961,0.1,"2-(L-Menthoxy)ethanol, 2-Nonanone propyleneglycol acetal, 4-methyl-2-octyl-1,3-dioxolane, 4-Methylpentyl 4-methylvalerate, butyl octanoate, dodecanoic acid = laurate, Heptyl 2-methylbutanoate, octan-3-yl butanoate"
+APEBA096,C7H10O7,M[M]+,C7H10O7+N2H22C18Br+,551.1387187,0.05,"1,2,4-Butanetricarboxylic acid,2-hydroxy-,(2R)-, 1-hydroxy-1-methylpropane-1,2,3-tricarboxylic acid"
+APEBA097,C8H14O2S2,M[M]+,C8H14O2S2+N2H22C18Br+,551.1395872,0.05,"5-[(3R)-1,2-Dithiolan-3-yl]pentanoic acid, alpha-Lipoic acid"
+APEBA098,C10H9NO4,M[M]+,C10H9NO4+N2H22C18Br+,552.1492239,0.1,"4-(2-Aminophenyl)-2,4-dioxobutanoic acid"
+APEBA099,C7H12O7,M[M]+,C7H12O7+N2H22C18Br+,553.1543688,0.1,4-O-Methylglucuronic acid
+APEBA100,C8H16O2S2,M[M]+,C8H16O2S2+N2H22C18Br+,553.1552373,0.1,"6,8-Dihydrothioctic acid"
+APEBA101,C9H12N4O2,M[M]+,C9H12N4O2+N2H22C18Br+,553.1920917,0.05,"(1R,2S)-1-(7,8-dihydropteridin-6-yl)propane-1,2-diol"
+APEBA102,C7H14O7,M[M]+,C7H14O7+N2H22C18Br+,555.1700189,0.05,"Crocose, D-Glycero-D-galactoheptose"
+APEBA103,C8H10N4O3,M[M]+,C8H10N4O3+N2H22C18Br+,555.1713563,0.05,"1,3,7-trimethylurate"
+APEBA104,C10H16N2O3,M[M]+,C10H16N2O3+N2H22C18Br+,557.2121585,0.05,"Proline,prolyl-"
+APEBA105,C12H20O3,M[M]+,C12H20O3+N2H22C18Br+,557.2373106,0.1,"(+)-1,2-Epoxyneomenthyl acetate, 12-oxododec-9-enoic acid"
+APEBA106,C11H21NO3,M[M]+,C11H21NO3+N2H22C18Br+,560.2482096,0.1,2-nonanamidoacetic acid
+APEBA107,C10H11NO5,M[M]+,C10H11NO5+N2H22C18Br+,570.1597885,0.05,"4-amino-4-deoxychorismate, N-(4-Hydroxy-3-methoxybenzoyl)glycine"
+APEBA108,C10H10O6,M[M]+,C10H10O6+N2H22C18Br+,571.1438041,0.1,"1,3-Cyclohexadiene-1-carboxylic acid,5-[(1-carboxyethenyl)oxy]-6-hydroxy-,(5S,6S)-, 2,5-Cyclohexadiene-1-propanoic acid,1-carboxy-4-hydroxy-alpha-oxo-, Chorismate"
+APEBA109,C14H28O2,M[M]+,C14H28O2+N2H22C18Br+,573.3049962,0.1,"2,4-dipentyl-1,3-dioxane, 2,6,10-Trimethylundecanoic acid, 2-decyl-4-methyl-1,3-dioxolane, butyl decanoate, Tetradecanoic acid"
+APEBA110,C9H13NO6,M[M]+,C9H13NO6+N2H22C18Br+,576.1703532,0.1,(2S)-2-(3-carboxypropanamido)-5-oxopentanoic acid
+APEBA111,C15H24O2,M[M]+,C15H24O2+N2H22C18Br+,581.2736961,0.1,"(2E)-3,7-dimethylocta-2,6-dien-1-yl (2E)-2-methylbut-2-enoate, {4,12-dimethyl-9-methylidene-5-oxatricyclo[8.2.0.0^{4,6}]dodecan-12-yl}methanol, 4alpha,5alpha-Epoxy-11-eudesmen-3a-ol"
+APEBA112,C8H14O8,M[M]+,C8H14O8+N2H22C18Br+,583.1649335,0.1,3-deoxy-D-manno-octulosonate
+APEBA113,C15H26O2,M[M]+,C15H26O2+N2H22C18Br+,583.2893461,0.1,"(2E)-3,7-dimethylocta-2,6-dien-1-yl 2-methylbutanoate, 1,7,7-trimethylbicyclo[2.2.1]heptan-2-yl 2-methylbutanoate, 2,4-Pentadecadienoic acid, 3,7-Dimethyl-1,6-octadien-3-yl valerate, Citronellyl trans-2-methyl-2-butenoate"
+APEBA114,C15H30O2,M[M]+,C15H30O2+N2H22C18Br+,587.3206463,0.05,"dodecyl propanoate, hexyl nonanoate"
+APEBA115,C8H12N2O7,M[M]+,C8H12N2O7+N2H22C18Br+,593.1605168,0.1,2-(3-amino-3-carboxypropanamido)butanedioic acid
+APEBA116,C16H30O2,M[M]+,C16H30O2+N2H22C18Br+,599.3206463,0.05,"(2E)-2-Hexadecenoic acid, (7E)-hexadec-7-enoic acid, (9Z)-hexadec-9-enoic acid, 7-Hexadecenoic acid"
+APEBA117,C15H12O4,M[M]+,C15H12O4+N2H22C18Br+,601.1696249,0.1,"(2S)-pinocembrin, 2-Dehydro-O-desmethylangolensin, 3-Phenyl-1-(2,4,6-trihydroxyphenyl)-2-propen-1-one, 7-hydroxy-3-(4-hydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-4-one"
+APEBA118,C16H32O2,M[M]+,C16H32O2+N2H22C18Br+,601.3362963,0.05,"dodecyl butanoate, Hexadecanoic acid, hexyl decanoate"
+APEBA119,C13H16N2O4,M[M]+,C13H16N2O4+N2H22C18Br+,609.2070731,0.1,"Acetyl-N-formyl-5-methoxykynurenamine, N~2~-(Phenylacetyl)-L-glutamine"
+APEBA120,C13H18N2O4,M[M]+,C13H18N2O4+N2H22C18Br+,611.2227232,0.1,"1,2,3-Trimethyl-5-(2-methyl-2-propanyl)-4,6-dinitrobenzene"
+APEBA121,C9H16O9,M[M]+,C9H16O9+N2H22C18Br+,613.1754982,0.05,3-Deoxy-D-glycero-D-galacto-2-nonulosonic acid
+APEBA122,C10H12N4O5,M[M]+,C10H12N4O5+N2H22C18Br+,613.1768356,0.1,"Allopurinol riboside, Arabinosylhypoxanthine"
+APEBA123,C17H34O2,M[M]+,C17H34O2+N2H22C18Br+,615.3519464,0.05,ethyl pentadecanoate
+APEBA124,C14H28N2O3,M[M]+,C14H28N2O3+N2H22C18Br+,617.3060589,0.1,N~6~-Octanoyllysine
+APEBA125,C16H32O3,M[M]+,C16H32O3+N2H22C18Br+,617.331211,0.1,"(3R)-3-hydroxyhexadecanoic acid, 16-hydroxyhexadecanoic acid"
+APEBA126,C14H18N2O4,M[M]+,C14H18N2O4+N2H22C18Br+,623.2227232,0.1,"(2S,5R)-2-(5,6-dimethyl-1H-1,3-benzodiazol-1-yl)-5-(hydroxymethyl)oxolane-3,4-diol, 1-(2-amino-3-phenylpropanoyl)-4-hydroxypyrrolidine-2-carboxylic acid, 1H-Indene,2,3-dihydro-1,1,3,3,5-pentamethyl-4,6-dinitro-"
+APEBA127,C11H14N4O5,M[M]+,C11H14N4O5+N2H22C18Br+,627.1924857,0.05,"Inosine,1-methyl-"
+APEBA128,C18H34O2,M[M]+,C18H34O2+N2H22C18Br+,627.3519464,0.05,"(9E)-octadec-9-enoic acid, (9Z)-octadec-9-enoic acid, 10-Octadecenoic acid, (Z)-octadec-2-enoic acid, petroselinic acid"
+APEBA129,C18H36O2,M[M]+,C18H36O2+N2H22C18Br+,629.3675965,0.05,Octadecanoic acid
+APEBA130,C14H30N4O2,M[M]+,C14H30N4O2+N2H22C18Br+,631.3329423,0.1,N-[3-({4-[(3-acetamidopropyl)amino]butyl}amino)propyl]acetamide
+APEBA131,C12H24N4O4,M[M]+,C12H24N4O4+N2H22C18Br+,633.2758214,0.1,3-amino-3-[(1-{[tert-butyl(methyl)carbamoyl]amino}ethyl)carbamoyl]propanoic acid
+APEBA132,C15H20N2O4,M[M]+,C15H20N2O4+N2H22C18Br+,637.2383732,0.1,4-carbamoyl-2-(4-phenylbutanamido)butanoic acid
+APEBA133,C14H18N2O5,M[M]+,C14H18N2O5+N2H22C18Br+,639.2176378,0.05,2-amino-4-[(1-carboxy-2-phenylethyl)carbamoyl]butanoic acid
+APEBA134,C19H36O2,M[M]+,C19H36O2+N2H22C18Br+,641.3675965,0.1,"(10Z)-nonadec-10-enoic acid, 2-Nonadecenoic acid"
+APEBA135,C19H38O2,M[M]+,C19H38O2+N2H22C18Br+,643.3832465,0.1,"10-Methyloctadecanoic acid, Nonadecanoic acid"
+APEBA136,C13H16O8,M[M]+,C13H16O8+N2H22C18Br+,645.1805835,0.05,4-Hydroxybenzoyl glucose
+APEBA137,C18H22O4,M[M]+,C18H22O4+N2H22C18Br+,647.2478753,0.1,6-Ketoestriol
+APEBA138,C15H12O7,M[M]+,C15H12O7+N2H22C18Br+,649.1543688,0.1,(+)-taxifolin
+APEBA139,C14H15NO7,M[M]+,C14H15NO7+N2H22C18Br+,654.1809179,0.1,"beta-D-Glucopyranosiduronic acid,1H-indol-3-yl"
+APEBA140,C11H20O10,M[M]+,C11H20O10+N2H22C18Br+,657.2017129,0.05,"(2R,3R,4S,5R,6S)-2-(hydroxymethyl)-6-{[(3R,4R,5R,6R)-4,5,6-trihydroxyoxan-3-yl]oxy}oxane-3,4,5-triol, 2-O-(beta-L-Arabinopyranosyl)-myoinositol, Arabinogalactose"
+APEBA141,C18H32O4,M[M]+,C18H32O4+N2H22C18Br+,657.3261256,0.1,"(10E)-9-hydroperoxyoctadeca-10,12-dienoic acid, (2E)-2-Octadecenedioic acid, (9S,10E,12Z)-9-hydroperoxyoctadeca-10,12-dienoic acid, (9Z,11E)-(13S)-13-hydroperoxyoctadeca-9,11-dienoate, 12,13-dihydroxyoctadeca-9,15-dienoic acid, 15,16-dihydroxyoctadeca-9,12-dienoic acid, 8R-Hydroperoxylinoleic acid, 9,10-DiHODE"
+APEBA142,C20H40O2,M[M]+,C20H40O2+N2H22C18Br+,657.3988966,0.05,"(3S,7R,11R)-3,7,11,15-Tetramethylhexadecanoic acid, arachidate"
+APEBA143,C14H18O9,M[M]+,C14H18O9+N2H22C18Br+,675.1911482,0.1,"4-hydroxy-2-methyl-6-{[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzoic acid, 4-O-beta-D-Glucuronyl-hydroxytyrosol, Benzoic acid,4-(beta-D-glucopyranosyloxy)-3-methoxy-, beta-D-Glucopyranose,1-(4-hydroxy-3-methoxybenzoate), beta-D-threo-Hexopyranosiduronic acid,2-hydroxy-5-(2-hydroxyethyl)phenyl"
+APEBA144,C18H34O5,M[M]+,C18H34O5+N2H22C18Br+,675.3366903,0.1,"9,10,13-TriHOME, 9,12,13-TriHOME"
+APEBA145,C22H34O2,M[M]+,C22H34O2+N2H22C18Br+,675.3519464,0.1,"(2E,4E,6E,8E,10E)-2,4,6,8,10-Docosapentaenoic acid, (7Z,10Z,13Z,16Z,19Z)-docosa-7,10,13,16,19-pentaenoic acid, 4,7,10,13,16-Docosapentaenoic acid, ethyl (1R,4aR,4bR,10aR)-1,4a-dimethyl-7-(propan-2-yl)-1,2,3,4,4a,4b,5,6,10,10a-decahydrophenanthrene-1-carboxylate, Taxa-4(20),11-dien-5-yl acetate"
+APEBA146,C22H44O2,M[M]+,C22H44O2+N2H22C18Br+,685.4301967,0.1,"Behnic acid, Heneicosanoic acid,20-methyl-"
+APEBA147,C12H22O11,M[M]+,C12H22O11+N2H22C18Br+,687.2122776,0.1,"alpha-Lactose, diglucoside, 2-(hydroxymethyl)-6-{[4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy}oxane-3,4,5-triol, 3beta-Galactopyranosyl glucose, alpha-D-Glucopyranoside,alpha-D-glucopyranosyl, beta-D-Fructofuranosyl alpha-D-glucopyranoside, beta-D-Fructofuranosyl alpha-D-glucopyranoside, DEAE-cellulose, galactinol, melibiose, gentiobiose, alpha-maltose, trehalose"
+APEBA148,C17H14O9,M[M]+,C17H14O9+N2H22C18Br+,707.1598481,0.1,OHferuoyl-gallate
+APEBA149,C24H48O2,M[M]+,C24H48O2+N2H22C18Br+,713.4614969,0.1,Carnaubic acid
+APEBA150,C20H18O9,M[M]+,C20H18O9+N2H22C18Br+,747.1911482,0.1,OHferuoyl-OHferulate
+APEBA151,C21H20O12,M[M]+,C21H20O12+N2H22C18Br+,809.1915422,0.05,"quercetin-glucoside, 2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-{[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}-4H-chromen-4-one, 6-C-beta-D-Glucopyranosyl-5,7,2',4',5'-pentahydroxyflavone, 6-Hydroxyluteolin 7-glucoside, 2-(3,4-dihydroxyphenyl)-3-hydroxy-5-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-7-one"
+DHB001,C5H11NO2,M+H,C5H11NO2+H+,118.0862331,0.2,"L-Valine, 5-Aminopentanoate, Betaine, D-Norvaline, L-Norvaline, 2-Amino-2-methylbutanoate, D-Valine, Amyl nitrite, 4-Methylaminobutyrate, Valine"
+DHB002,C8H8O2,M+H,C8H8O2+H+,137.059684,0.2,"Phenyl acetate, Toluate, 4-Hydroxyphenylacetaldehyde, Benzylformate, 3,4-Dihydroxystyrene, 3-Vinylcatechol, Phenylacetic acid, 2-Hydroxyacetophenone, m-Methylbenzoate, o-Toluate, 4'-Hydroxyacetophenone, p-Anisaldehyde, 3-Methylsalicylaldehyde, Phenyl acetate, Methyl benzoate, 4-Hydroxy-3-methylbenzaldehyde"
+DHB003,C7H6O3,M[M]+,C7H6O3+,138.0311235,0.1,"4-Hydroxybenzoate, 3-Hydroxybenzoate, Salicylate, Gentisate aldehyde, Sesamol, 3,4-Dihydroxybenzaldehyde, 2-Hydroxy-5-methylquinone"
+DHB004,C5H11NO2,M+Na,C5H11NO2+Na+,140.0681777,0.05,"L-Valine, 5-Aminopentanoate, Betaine, D-Norvaline, L-Norvaline, 2-Amino-2-methylbutanoate, D-Valine, Amyl nitrite, 4-Methylaminobutyrate, Valine"
+DHB005,C6H10N2O2,M+H,C6H10N2O2+H+,143.0814821,0.2,Ectoine
+DHB006,C7H13NO2,M+H,C7H13NO2+H+,144.1018832,0.2,"(E)-4-(Trimethylammonio)but-2-enoate, Stachydrine, D-Proline betaine"
+DHB007,C9H7NO,M+H,C9H7NO+H+,146.0600183,0.2,"3-Methyleneoxindole, Isocarbostyril, Quinolin-2-ol, 4-Hydroxyquinoline, 2(1H)-Quinolinone, Indole-3-carboxaldehyde, 8-Hydroxyquinoline, 4-[(E)-2-Isocyanoethenyl]phenol"
+DHB008,C5H11N3O2,M+H,C5H11N3O2+H+,146.0923811,0.2,4-Guanidinobutanoate
+DHB009,C7H19N3,M+H,C7H19N3+H+,146.1651521,0.2,Spermidine
+DHB010,C9H8O2,M+H,C9H8O2+H+,149.059684,0.2,"trans-Cinnamate, Dihydrocoumarin, 4-Hydroxycinnamyl aldehyde, 3-Hydroxy-1-indanone, 3-Isochromanone, Cinnamic acid, Pyruvophenone"
+DHB011,C7H6O4,M[M]+,C7H6O4+,154.0260381,0.05,"2,3-Dihydroxybenzoate, 3,4-Dihydroxybenzoate, 2,5-Dihydroxybenzoate, Patulin, 2,6-Dihydroxybenzoate"
+DHB012,C8H5NO,M+Na,C8H5NO+Na+,154.0263129,0.05,Benzoyl cyanide
+DHB013,C3H8NO4P,M+H,C3H8NO4P+H+,154.0263487,0.1,Fosamine
+DHB014,C7H6O4,M+H,C7H6O4+H+,155.0338632,0.05,"2,3-Dihydroxybenzoate, 3,4-Dihydroxybenzoate, 2,5-Dihydroxybenzoate, Patulin, 2,6-Dihydroxybenzoate"
+DHB015,C4H8N2O3,M+Na,C4H8N2O3+Na+,155.0426912,0.2,"L-Asparagine, N-Carbamoylsarcosine, D-Asparagine, Glycylglycine, 3-Ureidopropionate, Asparagine, Methylazoxymethanol acetate, N-Nitroso-N-methylurethane"
+DHB016,C8H7NO,M+Na,C8H7NO+Na+,156.041963,0.05,"Mandelonitrile, Hydroxyindole, (S)-Mandelonitrile, 4-Hydroxyphenylacetonitrile, Indoxyl, Indolin-2-one"
+DHB017,C3H10NO4P,M+H,C3H10NO4P+H+,156.0419988,0.05,"N-Methylethanolamine phosphate, D-1-Aminopropan-2-ol O-phosphate, L-1-Aminopropan-2-ol O-phosphate"
+DHB018,C5H11NO2,M+K,C5H11NO2+K+,156.042115,0.05,"L-Valine, 5-Aminopentanoate, Betaine, D-Norvaline, L-Norvaline, 2-Amino-2-methylbutanoate, D-Valine, Amyl nitrite, 4-Methylaminobutyrate, Valine"
+DHB019,C6H9N3O2,M+H,C6H9N3O2+H+,156.076731,0.2,"L-Histidine, Histidine, 3-(Pyrazol-1-yl)-L-alanine, D-Histidine"
+DHB020,C6H10N2O3,M+H,C6H10N2O3+H+,159.0763967,0.2,"4-Methylene-L-glutamine, 5-Hydroxyectoine"
+DHB021,C10H9NO,M+H,C10H9NO+H+,160.0756684,0.1,"Indole-3-acetaldehyde, 3-Methyl-quinolin-2-ol, Echinopsine, N-Hydroxy-1-aminonaphthalene, 2-Methylquinolin-4-ol"
+DHB022,C7H15NO3,M+H,C7H15NO3+H+,162.1124478,0.2,"L-Carnitine, (S)-Carnitine"
+DHB023,C10H10O2,M+H,C10H10O2+H+,163.075334,0.1,"cis-1,2-Dihydronaphthalene-1,2-diol, (1S,2S)-1,2-Dihydronaphthalene-1,2-diol, 1,2-Dihydronaphthalene-1,2-diol, Methyl cinnamate, Isosafrole, p-Methoxycinnamaldehyde, Safrole, 4-Hydroxycinnamoylmethane, trans-2-Phenylcyclopropanecarboxylic acid, Eugenol quinone methide"
+DHB024,K2SO4,M+H,K2SO4+H+,174.8863975,0.2,Potassium sulfate
+DHB025,C6H14N4O2,M+H,C6H14N4O2+H+,175.1189302,0.05,"L-Arginine, D-Arginine, Amino acid(Arg-)"
+DHB026,C10H8O3,M+H,C10H8O3+H+,177.0545986,0.1,"1,3,8-Naphthalenertriol, 4-Methylumbelliferone, Herniarin"
+DHB027,C10H10O3,M+H,C10H10O3+H+,179.0702487,0.1,"Vermelone, Coniferyl aldehyde, 3-Acetyl-6-methoxybenzaldehyde, 1,2-Dihydroxy-3,4-epoxy-1,2,3,4-tetrahydronaphthalene, 2-Oxo-4-phenylbutyric acid, (3S)-2-Oxo-3-phenylbutanoate"
+DHB028,C5H13NO4S,M+H,C5H13NO4S+H+,184.0637831,0.2,Choline sulfate
+DHB029,C9H12O4,M[M]+,C9H12O4+,184.0729883,0.05,"7-Methyl-2-hydroxy-6-oxoocta-2,4-dienoate, 3-Methoxy-4-hydroxyphenylethyleneglycol, 2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate, Antiarol, cis-3-(1-Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol, cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol"
+DHB030,C10H11NO,M+Na,C10H11NO+Na+,184.0732631,0.05,"Indole-3-ethanol, Boschniakine"
+DHB031,C5H15NO4P,M[M]+,C5H15NO4P+,184.0732989,0.2,Choline phosphate
+DHB032,C12H8S,M+H,C12H8S+H+,185.0419255,0.2,Dibenzothiophene
+DHB033,C11H10N2O,M+H,C11H10N2O+H+,187.0865674,0.2,"Deoxyvasicinone, Credazine"
+DHB034,C11H9NO2,M+H,C11H9NO2+H+,188.070583,0.2,3-Indoleacrylate
+DHB035,C7H16N4O2,M+H,C7H16N4O2+H+,189.1345803,0.2,"Homoarginine, N(omega)-Methyl-L-arginine"
+DHB036,C9H20N2O2,M+H,C9H20N2O2+H+,189.1597324,0.1,"7,8-Diaminononanoate, N6,N6,N6-Trimethyl-L-lysine, Propamocarb"
+DHB037,C11H10O3,M+H,C11H10O3+H+,191.0702487,0.2,"7-Ethoxycoumarin, 1,2-Dihydroxy-7-hydroxymethylnaphthalene, 1,2,3,4-Tetrahydro-4-oxo-1-naphthoic acid, Coixinden A"
+DHB038,C11H12O3,M+H,C11H12O3+H+,193.0858987,0.2,"Carpacin, Myristicin, Sarisan, Isoshinanolone, cis-1,2-Dihydroxy-1,2-dihydro-7-hydroxymethylnaphthalene, Nakitriol, Dehydrozingerone, Coumaryl acetate"
+DHB039,C6H14N4O2,M+Na,C6H14N4O2+Na+,197.1008748,0.2,"L-Arginine, D-Arginine, Amino acid(Arg-)"
+DHB040,C9H15N3O2,M+H,C9H15N3O2+H+,198.1236812,0.2,Nitrilacarb
+DHB041,C13H10O2,M+H,C13H10O2+H+,199.075334,0.2,"3,4-Dihydroxyfluorene, 1,2-Dihydroxyfluorene, Dehydrosafynol, 4-Hydroxybenzophenone, Capillarin, Atractylodinol"
+DHB042,C13H16N2,M+H,C13H16N2+H+,201.138603,0.1,"Dexmedetomidine, Tetrahydrozoline"
+DHB043,C6H12O6,M+Na,C6H12O6+Na+,203.0525872,0.2,"D-Glucose, D-Fructose, D-Galactose, myo-Inositol, D-Mannose, beta-D-Glucose, L-Sorbose, alpha-D-Glucose, D-Aldose, D-Hexose, D-Sorbose, D-Tagatose, alpha-D-Mannose, beta-D-Galactose, alpha-D-Galactose, Sorbose, D-Allose, Galactose, D-Fuconate, L-Fructose, L-Fuconate, L-Galactose, D-Hamamelose, L-Rhamnonate, beta-D-Mannose, beta-D-Fructose, 2-Deoxy-D-gluconate, D-Fructose, 1L-chiro-Inositol, muco-Inositol, scyllo-Inositol, D-Altrose, D-Gulose, D-Idose, D-Talose, D-Psicose, beta-D-Hamamelopyranose, alpha-L-Sorbopyranose, D-Fructose, L-Gulose, 1D-chiro-Inositol, L-Altrose, L-Idose, D-Galactofuranose, L-Tagatose"
+DHB044,C8H18N4O2,M+H,C8H18N4O2+H+,203.1502303,0.2,"Arg-OEt, NG,NG-Dimethyl-L-arginine"
+DHB045,C10H26N4,M+H,C10H26N4+H+,203.2230014,0.2,"Spermine, Thermospermine, N4-Aminopropylspermidine"
+DHB046,C9H18NO4,M[M]+,C9H18NO4+,204.1230125,0.2,O-Acetylcarnitine
+DHB047,C6H14O6,M+Na,C6H14O6+Na+,205.0682373,0.2,"Mannitol, D-Sorbitol, D-Iditol, L-Iditol, Galactitol, L-Glucitol, D-Altritol"
+DHB048,C5H13NO4S,M+Na,C5H13NO4S+Na+,206.0457277,0.2,Choline sulfate
+DHB049,C11H15NO3,M+H,C11H15NO3+H+,210.1124478,0.1,"Tyr-OEt, Anhalamine, p-Lactophenetide, Propoxur"
+DHB050,C8H16N2O5,M[M]+,C8H16N2O5+,220.1053511,0.1,N-Acetyl-beta-D-glucosaminylamine
+DHB051,C9H15N3O2,M+Na,C9H15N3O2+Na+,220.1056259,0.1,Nitrilacarb
+DHB052,C9H10O5,M+Na,C9H10O5+Na+,221.0420225,0.2,"3-(3,4-Dihydroxyphenyl)lactate, 3-Methoxy-4-hydroxymandelate, Syringic acid, (3E)-3-[(1R,5R,6S)-5-Hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate, (R)-3-(3,4-Dihydroxyphenyl)lactate"
+DHB053,C12H12O4,M+H,C12H12O4+H+,221.0808133,0.2,"2,6-Dioxo-6-phenylhexanoate, Polygonolide"
+DHB054,C5H13NO4S,M+K,C5H13NO4S+K+,222.019665,0.05,Choline sulfate
+DHB055,C12H17NO3,M+H,C12H17NO3+H+,224.1280979,0.1,"Cerulenin, beta-Butoxyethyl nicotinate, Anhalonidine"
+DHB056,C11H12N2O4,M[M]+,C11H12N2O4+,236.0791363,0.2,"L-Formylkynurenine, N-Formyl-D-kynurenine, N,N-Dihydroxy-L-tryptophan"
+DHB057,C12H20N2O3,M+H,C12H20N2O3+H+,241.154647,0.2,Pirbuterol
+DHB058,C14H18N2O2,M+H,C14H18N2O2+H+,247.1440823,0.2,Hypaphorine
+DHB059,C14H19NO3,M+H,C14H19NO3+H+,250.143748,0.1,"Ruspolinone, 1-(4-Methoxyphenyl)-3-(4-morpholinyl)-1-propanone, 4-O-Dimethylallyl-L-tyrosine"
+DHB060,C16H18N2O,M+H,C16H18N2O+H+,255.1491677,0.2,"Elymoclavine, Amphenone B, Chanoclavine-I aldehyde"
+DHB061,C15H11O4,M+H,C15H11O4+H+,256.0729883,0.2,Apigeninidin
+DHB062,C11H14NO4P,M+H,C11H14NO4P+H+,256.0732989,0.2,1-(Indol-3-yl)propanol 3-phosphate
+DHB063,C17H20O2,M+H,C17H20O2+H+,257.1535844,0.2,"3,3'-Dimethylbisphenol A, 3,3-Bis(4-hydroxyphenyl)pentane"
+DHB064,C13H17NO3,M+Na,C13H17NO3+Na+,258.1100425,0.2,Lophophorine
+DHB065,C15H14O4,M+H,C15H14O4+H+,259.0964634,0.2,"Wyerone, Luvangetin, Peucedanin, Davidigenin, Yangonin, Lunularic acid, Hibiscoquinone A, 2,2-Bis(4-hydroxyphenyl)-propanoic acid, 2-Naphtylmethylsuccinic acid, Catalpalactone"
+DHB066,C14H16N2O3,M+H,C14H16N2O3+H+,261.1233469,0.1,Maculosin
+DHB067,C18H30O,M+H,C18H30O+H+,263.2369201,0.2,4-Dodecylphenol
+DHB068,C14H20N2O3,M+H,C14H20N2O3+H+,265.154647,0.2,Feruloylputrescine
+DHB069,C14H18N2O2,M+Na,C14H18N2O2+Na+,269.1260269,0.2,Hypaphorine
+DHB070,C15H13NO4,M+H,C15H13NO4+H+,272.0917124,0.2,"N-Benzoyl-4-methoxyanthranilate, trans-2-(4-Methoxyphenyl)-3-(4-nitrophenyl)oxirane"
+DHB071,C10H12N2O5S,M+H,C10H12N2O5S+H+,273.0539467,0.2,7-Aminocephalosporanic acid
+DHB072,C13H18N2O3,M+Na,C13H18N2O3+Na+,273.1209416,0.1,"N-Caffeoylputrescine, Heptabarbital"
+DHB073,C14H10O6,M[M]+,C14H10O6+,274.0471675,0.2,"Athyriol, Bellidifolin, Isoathyriol, Swertianin, 2,2',4,4'-Tetrahydroxybenzil"
+DHB074,C15H9NO3,M+Na,C15H9NO3+Na+,274.0474423,0.2,"7-Methylpyrido[3,4-c]psoralen"
+DHB075,C10H14NO6P,M+H,C10H14NO6P+H+,276.0631282,0.2,Paraoxon
+DHB076,C16H15NO4,M[M]+,C16H15NO4+,285.0995374,0.2,Arborinine
+DHB077,C17H14N2O,M+Na,C17H14N2O+Na+,285.0998122,0.2,Oil Orange SS
+DHB078,C12H17N2O4P,M+H,C12H17N2O4P+H+,285.099848,0.2,Psilocybin
+DHB079,C17H11N5,M[M]+,C17H11N5+,285.1008749,0.2,Letrozole
+DHB080,C10H18N4O6,M+H,C10H18N4O6+H+,291.1298888,0.2,N-(L-Arginino)succinate
+DHB081,C15H11NO4,M+Na,C15H11NO4+Na+,292.058007,0.2,Evoxanthidine
+DHB082,C18H14O4,M+H,C18H14O4+H+,295.0964634,0.2,Dehydrocycloguanandin
+DHB083,C18H16O4,M+H,C18H16O4+H+,297.1121135,0.2,"Dasytrichone, Calophyllin B, 4-Ethyl-7-hydroxy-3-(p-methoxyphenyl)coumarin"
+DHB084,C19H39NO,M+H,C19H39NO+H+,298.3104194,0.1,Tridemorph
+DHB085,C13H14O8,M+H,C13H14O8+H+,299.0761219,0.2,D-Prephenyllactate
+DHB086,C9H18NO8P,M[M]+,C9H18NO8P+,299.0764325,0.2,D-4'-Phosphopantothenate
+DHB087,C16H12O6,M+H,C16H12O6+H+,301.0706426,0.2,"Chrysoeriol, 3-Methoxyapigenin, Leptosidin, Diosmetin, Hispidulin, Kaempferide, Cajanin, Pratensein, Tectorigenin, 2'-Hydroxybiochanin A, (+)-Sophorol, (-)-Sophorol, (+)-6a-Hydroxymaackiain, Rhamnocitrin, Questinol"
+DHB088,C16H14O6,M+H,C16H14O6+H+,303.0862927,0.1,"Hesperetin, Homoeriodictyol, Haematoxylin, Nanafrocin, Ferreirin, Dihydrokalafungin, Homoeriodictyol chalcone"
+DHB089,C15H8F3NO3,M+H,C15H8F3NO3+H+,308.0528822,0.2,"N-(6-Oxo-6H-dibenzo[b,d]pyran-3-yl)-2,2,2-trifluoroacetamide, 2,2,2-Trifluoro-N-(6-oxo-6H-dibenzo[b,d]pyran-2-yl)acetamide"
+DHB090,C20H38O2,M+H,C20H38O2+H+,311.2944349,0.1,"Prostanoic acid, Icosenoic acid, Paullinic acid"
+DHB091,C17H12O6,M+H,C17H12O6+H+,313.0706426,0.2,"Aspulvinone G, Aflatoxin B1, Betavulgarin, Dihydrodemethylsterigmatocystin"
+DHB092,C17H14O6,M+H,C17H14O6+H+,315.0862927,0.2,"Ventinone A, Irisolidone, Pisatin, 6-Hydroxy-2-(4-hydroxyphenyl)-5,7-dimethoxy-4H-1-benzopyran-4-one, Pinobanksin 3-O-acetate, Aflatoxin B2, 4'-Methylcapillarisin, 7-Methylcapillarisin, Aflatoxicol"
+DHB093,C17H15N3O2,M+Na,C17H15N3O2+Na+,316.1056259,0.2,GYKI 52466
+DHB094,C16H12O7,M+H,C16H12O7+H+,317.0655572,0.2,"3-O-Methylquercetin, Capillarisin, Azaleatin, Isorhamnetin, Pedalitin, Pinoquercetin, Rhamnetin, Sexangularetin, Tamarixetin, 3'-O-Methyltricetin"
+DHB095,C17H16O6,M+H,C17H16O6+H+,317.1019427,0.2,"Cajanol, Homoferreirin, 2,3-Dihydro-6-hydroxy-2-(4-hydroxyphenyl)-5,7-dimethoxy-4H-1-benzopyran-4-one, Isobyakangelicol, Byakangelicol, Neobyakangelicol"
+DHB096,C12H10F3N3O4,M+H,C12H10F3N3O4+H+,318.0695949,0.2,Nilutamide
+DHB097,C12H22N2O6S,M+H,C12H22N2O6S+H+,323.1271117,0.2,N-((R)-Pantothenoyl)-L-cysteine
+DHB098,C20H18O4,M+H,C20H18O4+H+,323.1277635,0.2,"Abyssinone I, (-)-Phaseollin, 6-(3,3-Dimethylallyl)chrysin, 8-(3,3-Dimethylallyl)chrysin"
+DHB099,C19H16O5,M+H,C19H16O5+H+,325.1070281,0.2,"2,3-Dehydro-UWM6"
+DHB100,C17H19ClN2O,M+Na,C17H19ClN2O+Na+,325.1077901,0.2,Cumyluron
+DHB101,C9H13N2O8P,M+Na,C9H13N2O8P+Na+,331.030151,0.2,dUMP
+DHB102,C17H14O7,M+H,C17H14O7+H+,331.0812073,0.2,"3,7-Di-O-methylquercetin, (+)-Bisdechlorogeodin, (-)-Bisdechlorogeodin, Cirsiliol, Tricin, Hildecarpin, Aflatoxin G2, Aurantio-obtusin"
+DHB103,C20H23ClO2,M+H,C20H23ClO2+H+,331.1459122,0.2,17alpha-Chloroethynylestradiol
+DHB104,C17H26ClNO2,M+Na,C17H26ClNO2+Na+,334.1544059,0.2,"Butachlor, Pretilachlor"
+DHB105,C20H19N3O2,M+H,C20H19N3O2+H+,334.1549814,0.2,Cyclo(L-Trp-L-Phe)
+DHB106,C20H16O5,M+H,C20H16O5+H+,337.1070281,0.2,"Psoralidin, Sojagol"
+DHB107,C16H18O8,M+H,C16H18O8+H+,339.107422,0.2,"1-Caffeoyl-4-deoxyquinic acid, 4-p-Coumaroylquinic acid, p-Coumaroyl quinic acid"
+DHB108,C19H18N2O4,M+H,C19H18N2O4+H+,339.1339116,0.2,Alamarine
+DHB109,C20H20O5,M+H,C20H20O5+H+,341.1383282,0.2,"Glepidotin B, 6-Prenylnaringenin, 5-Deoxykievitone, (+)-Galbacin, Glyceocarpin, 4-Glyceollidin, Desmethylxanthohumol, Sophoraflavanone B"
+DHB110,C15H18O9,M+H,C15H18O9+H+,343.1023366,0.2,"Caffeic acid 3-glucoside, 1-Caffeoyl-beta-D-glucose"
+DHB111,C17H17N2O6,M+H,C17H17N2O6+H+,346.1159158,0.2,2-Descarboxy-betanidin
+DHB112,C17H18N2O6,M[M]+,C17H18N2O6+,346.1159158,0.2,"Nifedipine, Miraxanthin-V"
+DHB113,C20H18O6,M+H,C20H18O6+H+,355.1175928,0.1,"Cyclokievitone, Licoisoflavone A, Luteone, Hinokinin, Sesamin"
+DHB114,C6H13NO11S2,M+Na,C6H13NO11S2+Na+,361.9822008,0.2,"N,6-O-Disulfo-D-glucosamine"
+DHB115,C21H16O6,M+H,C21H16O6+H+,365.1019427,0.2,Justicidin B
+DHB116,C12H22O11,M+Na,C12H22O11+Na+,365.1054106,0.05,"Sucrose, Cellobiose, Maltose, Lactose, Isomaltose, alpha-Maltose, alpha,alpha-Trehalose, alpha-D-Galactosyl-(1->3)-1D-myo-inositol, Nigerose, Inulobiose, Levanbiose, Mannobiose, Palatinose, beta-Lactose, beta-Maltose, Laminaribiose, 4-O-beta-D-Glucopyranosyl-D-mannose, alpha-D-Glucosyl-(1,3)-D-mannose, alpha-D-Aldosyl beta-D-fructoside, Epimelibiose, Melibiose, alpha-Cellobiose, beta-Cellobiose, Lactulose, Gentiobiose, Sophorose, 2-alpha-D-Glucosyl-D-glucose, beta-D-Fructofuranosyl-alpha-D-mannopyranoside, Kojibiose, Maltulose, Melibiulose, Turanose, 3-O-alpha-D-Mannopyranosyl-alpha-D-mannopyranose, 4-O-beta-D-Mannopyranosyl-D-glucopyranose, Mannobiose, beta-1,2-Mannobiose"
+DHB117,C22H19ClO3,M+H,C22H19ClO3+H+,367.1095267,0.2,Atovaquone
+DHB118,C14H15N5O6S,M+H,C14H15N5O6S+H+,382.0815585,0.2,"Metsulfuron-methyl, Tribenuron"
+DHB119,C18H32O16,M+Na,C18H32O16+Na+,527.1582341,0.1,"Raffinose, Panose, Galactomannan, Maltotriose, Isomaltotriose, 6-alpha-Maltosylglucose, 1F-beta-D-Fructosylsucrose, 6F-alpha-D-Galactosylsucrose, D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose, Cellotriose, Gentianose, Melezitose, Umbelliferose, beta-1,2-Mannotriose"
+DHB120,C27H30Cl2O6,M+Na,C27H30Cl2O6+Na+,543.1311432,0.2,Mometasone furoate
+DHB121,C17H27N4O14P,M+H,C17H27N4O14P+H+,543.1333926,0.1,"CMP-8-amino-3,8-dideoxy-beta-D-manno-octulosonate"
+DHB122,C31H34N2O7,M+H,C31H34N2O7+H+,547.2438559,0.2,Asukamycin
+NEDC001,C5H4O3,M-H,C5H4O3-H-,111.0087456,0.2,2-Furoate
+NEDC002,C4H4O4,M-H,C4H4O4-H-,115.0036602,0.2,"Fumarate, Maleic acid, Formylpyruvate"
+NEDC003,C7H6O2,M-H,C7H6O2-H-,121.029481,0.2,"Benzoate, Aromatic acid, 4-Hydroxybenzaldehyde, 3-Hydroxybenzaldehyde, Salicylaldehyde, Tropolone"
+NEDC004,MgCl2,M+Cl,MgCl2+Cl-,128.8921266,0.05,Magnesium chloride
+NEDC005,C5H6O4,M-H,C5H6O4-H-,129.0193103,0.2,"2,5-Dioxopentanoate, Itaconate, Mesaconate, Acetylpyruvate, (E)-Glutaconate, 2-Methylmaleate, 4,5-Dioxopentanoate"
+NEDC006,C4H8N2O3,M-H,C4H8N2O3-H-,131.0461937,0.2,"L-Asparagine, N-Carbamoylsarcosine, D-Asparagine, Glycylglycine, 3-Ureidopropionate, Asparagine, Methylazoxymethanol acetate, N-Nitroso-N-methylurethane"
+NEDC007,C4H7NO4,M-H,C4H7NO4-H-,132.0302093,0.2,"L-Aspartate, D-Aspartate, Aspartate, Iminodiacetate"
+NEDC008,C4H6O5,M-H,C4H6O5-H-,133.0142249,0.05,"(S)-Malate, (R)-Malate, Malate, 3-Dehydro-L-threonate, 3-Dehydro-L-erythronate, 2-Dehydro-D-erythronate, 2-Dehydro-L-erythronate"
+NEDC009,C7H6O3,M-H,C7H6O3-H-,137.0243956,0.2,"4-Hydroxybenzoate, 3-Hydroxybenzoate, Salicylate, Gentisate aldehyde, Sesamol, 3,4-Dihydroxybenzaldehyde, 2-Hydroxy-5-methylquinone"
+NEDC010,C6H4O4,M-H,C6H4O4-H-,139.0036602,0.2,"cis-4-Carboxymethylenebut-2-en-4-olide, trans-4-Carboxymethylenebut-2-en-4-olide, 5-Formyl-2-furoate"
+NEDC011,C9H7NO,M-H,C9H7NO-H-,144.0454654,0.2,"3-Methyleneoxindole, Isocarbostyril, Quinolin-2-ol, 4-Hydroxyquinoline, 2(1H)-Quinolinone, Indole-3-carboxaldehyde, 8-Hydroxyquinoline, 4-[(E)-2-Isocyanoethenyl]phenol"
+NEDC012,CaCl2,M+Cl,CaCl2+Cl-,144.8696759,0.05,Calcium chloride anhydrous
+NEDC013,C5H10N2O3,M-H,C5H10N2O3-H-,145.0618438,0.2,"L-Glutamine, Glutamine, D-Glutamine, 3-Ureidoisobutyrate, Isoglutamine, (R)-3-Ureidoisobutyrate"
+NEDC014,C5H9NO4,M-H,C5H9NO4-H-,146.0458594,0.2,"L-Glutamate, D-Glutamate, Glutamate, O-Acetyl-L-serine, L-threo-3-Methylaspartate, N-(Carboxymethyl)-D-alanine, 3-Aminopentanedioate, L-4-Hydroxyglutamate semialdehyde, 2-Oxo-4-hydroxy-5-aminovalerate, N-Methyl-D-aspartic acid"
+NEDC015,C5H8O5,M-H,C5H8O5-H-,147.0298749,0.2,"D-Arabinono-1,4-lactone, 2-Dehydro-3-deoxy-L-arabinonate, Citramalate, (R)-2-Hydroxyglutarate, L-Arabinono-1,4-lactone, D-Xylonolactone, (R)-2-Methylmalate, (S)-2-Methylmalate, 2-Hydroxyglutarate, D-Xylono-1,4-lactone, L-Xylono-1,4-lactone, (S)-2-Hydroxyglutarate, 2-Dehydro-3-deoxy-D-xylonate, L-Arabinono-1,5-lactone, L-threo-3-Methylmalate, D-threo-3-Methylmalate, D-erythro-3-Methylmalate, D-Apionolactone"
+NEDC016,C8H8O3,M-H,C8H8O3-H-,151.0400457,0.2,"4-Hydroxyphenylacetate, 4-Hydroxy-3-methoxy-benzaldehyde, (R)-Mandelate, (S)-Mandelate, Phenoxyacetate, 4-Methoxybenzoate, 3-Methoxytropolone, 6-Methylsalicylate, 2',4'-Dihydroxyacetophenone, 3,4-Dihydroxyphenylacetaldehyde, 3-Hydroxyphenylacetate, 2-Hydroxyphenylacetate, 3',4'-Dihydroxyacetophenone, 2-(Hydroxymethyl)benzoic acid, Resorcinol monoacetate, Methyl salicylate, 4-Hydroxyphenacyl alcohol, 4-Hydroxyphenyl acetate, 3-Methylsalicylate, 4-Methylsalicylate, 4-Hydroxymethylsalicylaldehyde, Menisdaurilide, 4-Hydroxy-3-methylbenzoate"
+NEDC017,C3H7O5P,M-H,C3H7O5P-H-,152.9958114,0.2,"Propanoyl phosphate, Hydroxyacetone phosphate, Glycerol 1,2-cyclic phosphate"
+NEDC018,C6H9N3O2,M-H,C6H9N3O2-H-,154.0621781,0.2,"L-Histidine, Histidine, 3-(Pyrazol-1-yl)-L-alanine, D-Histidine"
+NEDC019,C6H6O5,M-H,C6H6O5-H-,157.0142249,0.2,"2-Maleylacetate, 2-Hydroxymuconate, gamma-Oxalocrotonate, 3-Hydroxy-cis,cis-muconate, 4-Methylene-2-oxoglutarate, 5-(Dihydroxymethyl)furan-2-carboxylate"
+NEDC020,C4H6N4O3,M-H,C4H6N4O3-H-,157.0366917,0.2,"Allantoin, (R)(-)-Allantoin, (S)-Allantoin"
+NEDC021,C6H8O5,M-H,C6H8O5-H-,159.0298749,0.2,"2-Oxoadipate, 3-Oxoadipate, 3D-3,5/4-Trihydroxycyclohexane-1,2-dione, D-2,3-Diketo 4-deoxy-epi-inositol, 2-Formylglutarate, 2,4-Diketo-3-deoxy-L-fuconate"
+NEDC022,C9H6O3,M-H,C9H6O3-H-,161.0243956,0.2,"Umbelliferone, 4-Hydroxycoumarin"
+NEDC023,C6H4N4O2,M-H,C6H4N4O2-H-,163.026127,0.2,"2,4-Dihydroxypteridine"
+NEDC024,C9H8O3,M-H,C9H8O3-H-,163.0400457,0.2,"Phenylpyruvate, 4-Coumarate, trans-2-Hydroxycinnamate, 2-Hydroxy-3-phenylpropenoate, cis-2-Hydroxycinnamate, cis-p-Coumarate, 3-Oxo-3-phenylpropanoate, Caffeic aldehyde, trans-3-Hydroxycinnamate"
+NEDC025,C8H6O4,M-H,C8H6O4-H-,165.0193103,0.2,"Phthalate, 4-Hydroxyphenylglyoxylate, Terephthalate, 3-Formylsalicylic acid, 4-Formylsalicylic acid, Isophthalate"
+NEDC026,C5H10O6,M-H,C5H10O6-H-,165.0404396,0.2,"D-Xylonate, L-Arabinonate, D-Arabinonate, D-Ribonate, L-Xylonate, L-Lyxonate, D-Apionate"
+NEDC027,C4H10NO4P,M-H,C4H10NO4P-H-,166.0274459,0.2,"Demethylphosphinothricin, 2-Acetamidoethylphosphonate"
+NEDC028,C5H4N4O3,M-H,C5H4N4O3-H-,167.0210416,0.2,Urate
+NEDC029,C8H8O4,M-H,C8H8O4-H-,167.0349603,0.2,"Homogentisate, 3,4-Dihydroxyphenylacetate, Orsellinate, (S)-4-Hydroxymandelate, 4-Hydroxypheoxyacetate, (R)-4-Hydroxymandelate, 3,4-Dihydroxymandelaldehyde, 2,6-Dihydroxyphenylacetate, Vanillate, 2-Hydroxy-6-oxoocta-2,4,7-trienoate, 2,6-Dimethoxybenzoquinone, 4-Hydroxymandelate, 4-Hydroxymethylsalicylate, 1,2-Dihydrophthalic acid, 2-Acetylphloroglucinol"
+NEDC030,C10H6N2O,M-H,C10H6N2O-H-,169.0407144,0.2,Indole-3-carbonyl nitrile
+NEDC031,CaSO4,M+Cl,CaSO4+Cl-,170.8836997,0.2,Calcium sulfate
+NEDC032,K2HPO4,M-H,K2HPO4-H-,172.8813604,0.2,Potassium dibasic phosphate
+NEDC033,C6H6O6,M-H,C6H6O6-H-,173.0091395,0.2,"cis-Aconitate, trans-Aconitate, Dehydroascorbate"
+NEDC034,C6H14N4O2,M-H,C6H14N4O2-H-,173.1043773,0.2,"L-Arginine, D-Arginine, Amino acid(Arg-)"
+NEDC035,C6H8O6,M-H,C6H8O6-H-,175.0247896,0.2,"Ascorbate, D-Glucuronolactone, 2-Hydroxy-3-oxoadipate, L-xylo-Hexulonolactone, D-Glucurono-6,2-lactone, 5-Dehydro-4-deoxy-D-glucuronate, (4S)-4,6-Dihydroxy-2,5-dioxohexanoate, (4S,5S)-4,5-Dihydroxy-2,6-dioxohexanoate, Parapyruvate, D-Galacturonolactone, 2-Dehydro-D-glucono-1,5-lactone, Propane-1,2,3-tricarboxylate, Erythorbic acid, 3-Dehydro-scyllo-inosose"
+NEDC036,C10H8O3,M-H,C10H8O3-H-,175.0400457,0.2,"1,3,8-Naphthalenertriol, 4-Methylumbelliferone, Herniarin"
+NEDC037,C9H6O4,M-H,C9H6O4-H-,177.0193103,0.2,"7,8-Dihydroxycoumarin, 5,7-Dihydroxychromone, Esculetin, Caffeoquinone"
+NEDC038,C10H10O3,M-H,C10H10O3-H-,177.0556958,0.2,"Vermelone, Coniferyl aldehyde, 3-Acetyl-6-methoxybenzaldehyde, 1,2-Dihydroxy-3,4-epoxy-1,2,3,4-tetrahydronaphthalene, 2-Oxo-4-phenylbutyric acid, (3S)-2-Oxo-3-phenylbutanoate"
+NEDC039,C9H8O4,M-H,C9H8O4-H-,179.0349603,0.2,"3-(4-Hydroxyphenyl)pyruvate, Caffeate, Aspirin, Caffeate, 2-Hydroxy-3-(4-hydroxyphenyl)propenoate, trans-2,3-Dihydroxycinnamate"
+NEDC040,C6H12O6,M-H,C6H12O6-H-,179.0560897,0.2,"D-Glucose, D-Fructose, D-Galactose, myo-Inositol, D-Mannose, beta-D-Glucose, L-Sorbose, alpha-D-Glucose, D-Aldose, D-Hexose, D-Sorbose, D-Tagatose, alpha-D-Mannose, beta-D-Galactose, alpha-D-Galactose, Sorbose, D-Allose, Galactose, D-Fuconate, L-Fructose, L-Fuconate, L-Galactose, D-Hamamelose, L-Rhamnonate, beta-D-Mannose, beta-D-Fructose, 2-Deoxy-D-gluconate, D-Fructose, 1L-chiro-Inositol, muco-Inositol, scyllo-Inositol, D-Altrose, D-Gulose, D-Idose, D-Talose, D-Psicose, beta-D-Hamamelopyranose, alpha-L-Sorbopyranose, D-Fructose, L-Gulose, 1D-chiro-Inositol, L-Altrose, L-Idose, D-Galactofuranose, L-Tagatose"
+NEDC041,C8H6O5,M-H,C8H6O5-H-,181.0142249,0.2,"Stipitatate, 4-Hydroxyphthalate, 3,5-Dihydroxyphenylglyoxylate, 2-Hydroxyisophthalic acid, 4-Hydroxyisophthalate"
+NEDC042,C9H10O4,M-H,C9H10O4-H-,181.0506104,0.2,"3-(4-Hydroxyphenyl)lactate, (R)-3-(4-Hydroxyphenyl)lactate, 3-(2,3-Dihydroxyphenyl)propanoate, Homovanillate, 3-Methoxy-4-hydroxyphenylglycolaldehyde, 3,4-Dihydroxyphenylpropanoate, 2',6'-Dihydroxy-4'-methoxyacetophenone, cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol, 3-[(4R)-4-Hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate, 3-[(1E,4R)-4-Hydroxycyclohex-2-en-1-ylidene]-2-oxopropanoate"
+NEDC043,C7H4O6,M-H,C7H4O6-H-,182.9934894,0.2,"2-Pyrone-4,6-dicarboxylate, Chelidonic acid"
+NEDC044,C8H8O5,M-H,C8H8O5-H-,183.0298749,0.2,"3,4-Dihydroxymandelate, 3-O-Methylgallate"
+NEDC045,C11H8O3,M-H,C11H8O3-H-,187.0400457,0.2,"1-Hydroxy-2-naphthoate, Plumbagin, Ramentaceone, 3-Hydroxy-2-naphthoate"
+NEDC046,C10H6O4,M-H,C10H6O4-H-,189.0193103,0.2,"Naphthazarin, 3,5-Dihydroxy-1,4-naphthoquinone, Ayapin"
+NEDC047,C6H8O7,M-H,C6H8O7-H-,191.0197042,0.05,"Citrate, Isocitrate, (1R,2S)-1-Hydroxypropane-1,2,3-tricarboxylate, 5-Dehydro-4-deoxy-D-glucarate, 2,5-Didehydro-D-gluconate, Carboxymethyloxysuccinate, 2-Dehydro-3-deoxy-D-glucarate, (4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate, (1S,2S)-1-Hydroxypropane-1,2,3-tricarboxylate, D-Galactaro-1,5-lactone, D-Glucaro-1,5-lactone, D-Galactaro-1,4-lactone, (2S,3R)-2,3-Dihydroxy-5-oxohexanedioate, D-Glucaro-1,4-lactone"
+NEDC048,C10H8O4,M-H,C10H8O4-H-,191.0349603,0.2,"Scopoletin, 3,4-Dehydro-6-hydroxymellein, 1,3,6,8-Naphthalenetetrol, trans-o-Hydroxybenzylidenepyruvate, 2-Hydroxychromene-2-carboxylate, Acamelin, Anemonin, Methylenedioxycinnamic acid, Isoscopoletin, 5,7-Dihydroxy-2-methyl-4H-chromen-4-one, Naphthalene-1,2,4,8-tetrol"
+NEDC049,C7H12O6,M-H,C7H12O6-H-,191.0560897,0.2,"Quinate, 2D-5-O-Methyl-2,3,5/4,6-pentahydroxycyclohexanone, Valiolone, 2-epi-5-epi-Valiolone, 5-epi-Valiolone, 2-epi-Valiolone"
+NEDC050,C6H10O7,M-H,C6H10O7-H-,193.0353542,0.2,"D-Glucuronate, D-Galacturonate, D-Tagaturonate, 3-Dehydro-L-gulonate, D-Fructuronate, 5-Dehydro-D-gluconate, D-Mannuronate, 2-Dehydro-D-galactonate, L-Guluronic acid, L-Iduronic acid, 2-Keto-D-gluconic acid, Galacturonic acid, beta-D-Glucopyranuronic acid, 2-Dehydro-L-idonate, D-Glucuronic acid, L-Altruronic acid, D-Alluronic acid, D-Guluronic acid, D-Taluronic acid, 5-Dehydro-L-gluconate"
+NEDC051,C10H10O4,M-H,C10H10O4-H-,193.0506104,0.2,"Scytalone, Ferulate, 6-Hydroxymellein, 2,4,8-Trihydroxy-1-tetralone, Isoferulic acid, Methyl caffeate, Dimethyl phthalate, 5-Hydroxyconiferaldehyde, Kakuol"
+NEDC052,C9H8O5,M-H,C9H8O5-H-,195.0298749,0.2,"3-(3,4-Dihydroxyphenyl)pyruvate"
+NEDC053,C6H12O7,M-H,C6H12O7-H-,195.0510043,0.2,"D-Gluconic acid, D-Mannonate, L-Idonate, L-Gulonate, D-Altronate, D-Galactonate, 2-Carboxy-D-arabinitol, L-Galactonate"
+NEDC054,C10H12O4,M-H,C10H12O4-H-,195.0662604,0.2,"2,3-Dihydroxy-p-cumate, Phlorisobutyrophenone, Acetosyringone, 2',6'-Dimethoxy-4'-hydroxyacetophenone, Xanthoxylin, 5-Hydroxyconiferyl alcohol, Cantharidin, Paeonilactone B"
+NEDC055,C8H6O6,M-H,C8H6O6-H-,197.0091395,0.2,"3,4-Dihydroxyphthalate, 4,5-Dihydroxyphthalate"
+NEDC056,C6H10O5,M+Cl,C6H10O5+Cl-,197.0222027,0.2,"Lichenin, (R)-3,3-Dimethylmalate, 3-Ethylmalate, 2-Hydroxyadipate, (R)-2-Ethylmalate, L-Rhamnono-1,4-lactone, (2R,3S)-2,3-Dimethylmalate, 3-Hydroxy-3-methylglutarate, 2-Dehydro-3-deoxy-L-fuconate, 2-Dehydro-3-deoxy-L-rhamnonate, D-Fucono-1,4-lactone, 2-Dehydro-3-deoxy-D-fuconate, 3,6-Anhydrogalactose, 3,6-Anhydroglucose, 1,5-Anhydro-D-fructose, Diethyl pyrocarbonate, (S)-2-(Hydroxymethyl)glutarate, 2-Deoxy-scyllo-inosose, L-Fucono-1,5-lactone, 3,6-Anhydro-alpha-L-galactopyranose, 3-Deoxyglucosone"
+NEDC057,C9H10O5,M-H,C9H10O5-H-,197.045525,0.2,"3-(3,4-Dihydroxyphenyl)lactate, 3-Methoxy-4-hydroxymandelate, Syringic acid, (3E)-3-[(1R,5R,6S)-5-Hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate, (R)-3-(3,4-Dihydroxyphenyl)lactate"
+NEDC058,C12H8O3,M-H,C12H8O3-H-,199.0400457,0.2,5-Methylangelicin
+NEDC059,C7H8O7,M-H,C7H8O7-H-,203.0197042,0.2,Oxaloglutarate
+NEDC060,C11H8O4,M-H,C11H8O4-H-,203.0349603,0.2,"1,4-Dihydroxy-2-naphthoate, Spirodilactone, Droserone, 1,2-Dihydroxy-8-carboxynaphthalene, 1,4-Dihydroxy-6-naphthoate"
+NEDC061,C10H6O5,M-H,C10H6O5-H-,205.0142249,0.2,Flaviolin
+NEDC062,C7H10O7,M-H,C7H10O7-H-,205.0353542,0.2,"(R)-2-Hydroxybutane-1,2,4-tricarboxylate, 2-Methylcitrate, (2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate, Homoisocitrate"
+NEDC063,C11H10O4,M-H,C11H10O4-H-,205.0506104,0.2,"Lathodoratin, Scoparone, 2-Hydroxy-8-methylchromene-2-carboxylate, 2-Hydroxy-3-methylbenzalpyruvate, cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene, Eugenin"
+NEDC064,C6H10NO5P,M-H,C6H10NO5P-H-,206.0223605,0.2,[5-(Aminomethyl)furan-3-yl]methyl phosphate
+NEDC065,C10H8O5,M-H,C10H8O5-H-,207.0298749,0.2,"Fraxetin, 3-[(1-Carboxyvinyl)oxy]benzoate"
+NEDC066,C11H12O4,M-H,C11H12O4-H-,207.0662604,0.2,"6-Methoxymellein, Sinapoyl aldehyde, Benzylsuccinate"
+NEDC067,C6H10O8,M-H,C6H10O8-H-,209.0302689,0.05,"D-Glucarate, D-Galactarate, L-Altarate"
+NEDC068,C10H10O5,M-H,C10H10O5-H-,209.045525,0.2,"5-Hydroxyferulic acid methyl ester, 4-(2-Hydroxyethoxycarbonyl)benzoate, 2,4-Diacetylphloroglucinol"
+NEDC069,C7H14O7,M-H,C7H14O7-H-,209.0666544,0.2,"Sedoheptulose, alpha-D-Mannoheptulopyranose, beta-D-Sedoheptulopyranose, Coriose, D-glycero-D-manno-Heptose, L-glycero-D-manno-Heptose"
+NEDC070,C9H8O6,M-H,C9H8O6-H-,211.0247896,0.2,"3-(2-Carboxyethenyl)-cis,cis-muconate, 2-Hydroxy-6-ketononatrienedioate, 5-Carboxyvanillic acid"
+NEDC071,C12H6O4,M-H,C12H6O4-H-,213.0193103,0.2,"Dibenzo[1,4]dioxin-2,3-dione"
+NEDC072,C5H14NO6P,M-H,C5H14NO6P-H-,214.0485752,0.2,sn-Glycero-3-phosphoethanolamine
+NEDC073,C5H13O7P,M-H,C5H13O7P-H-,215.0325908,0.2,2-C-Methyl-D-erythritol 4-phosphate
+NEDC074,C6H12O6,M+Cl,C6H12O6+Cl-,215.0327674,0.05,"D-Glucose, D-Fructose, D-Galactose, myo-Inositol, D-Mannose, beta-D-Glucose, L-Sorbose, alpha-D-Glucose, D-Aldose, D-Hexose, D-Sorbose, D-Tagatose, alpha-D-Mannose, beta-D-Galactose, alpha-D-Galactose, Sorbose, D-Allose, Galactose, D-Fuconate, L-Fructose, L-Fuconate, L-Galactose, D-Hamamelose, L-Rhamnonate, beta-D-Mannose, beta-D-Fructose, 2-Deoxy-D-gluconate, D-Fructose, 1L-chiro-Inositol, muco-Inositol, scyllo-Inositol, D-Altrose, D-Gulose, D-Idose, D-Talose, D-Psicose, beta-D-Hamamelopyranose, alpha-L-Sorbopyranose, D-Fructose, L-Gulose, 1D-chiro-Inositol, L-Altrose, L-Idose, D-Galactofuranose, L-Tagatose"
+NEDC075,C6H14O6,M+Cl,C6H14O6+Cl-,217.0484175,0.1,"Mannitol, D-Sorbitol, D-Iditol, L-Iditol, Galactitol, L-Glucitol, D-Altritol"
+NEDC076,C11H8O5,M-H,C11H8O5-H-,219.0298749,0.2,"(3E)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate, Purpurogallin, (3Z)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate, 3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate, 3,6,8-Trihydroxy-2-naphthoate"
+NEDC077,C11H10O5,M-H,C11H10O5-H-,221.045525,0.2,"2-Succinylbenzoate, Leptodactylone, Sphagnum acid, 6-(2-Methoxyvinyl)benzo[1,3]dioxole-5-carboxylic acid, 2-Hydroxy-7-hydroxymethylchromene-2-carboxylate, 2-Hydroxy-4-hydroxymethylbenzalpyruvate, Fraxidin, Isofraxidin"
+NEDC078,C8H14O7,M-H,C8H14O7-H-,221.0666544,0.2,6-Acetyl-D-glucose
+NEDC079,C11H12O5,M-H,C11H12O5-H-,223.0611751,0.2,"Sinapate, 2-Benzylmalic acid, 3-Benzylmalic acid"
+NEDC080,C14H10O3,M-H,C14H10O3-H-,225.0556958,0.2,"Dithranol, 4-Dihydroxyethyl-8,9-epoxy-enediyne, Flurecol"
+NEDC081,C6H6Cl2O5,M-H,C6H6Cl2O5-H-,226.9519303,0.2,"2,4-Dichloro-3-oxoadipate"
+NEDC082,C13H8O4,M-H,C13H8O4-H-,227.0349603,0.2,Euxanthone
+NEDC083,C14H12O3,M-H,C14H12O3-H-,227.0713458,0.2,"Resveratrol, Seselin, Trioxsalen, Xanthyletin, 5,6-Dehydrokawain, 2-Hydroxy-4-methoxybenzophenone, Benzylparaben, 3,4-Dihydro-8,9-dihydroxy-1(2H)-anthracenone, 4,4',6-Trimethylangelicin"
+NEDC084,C12H8O5,M-H,C12H8O5-H-,231.0298749,0.2,5-Hydroxyxanthotoxin
+NEDC085,C12H10O5,M-H,C12H10O5-H-,233.045525,0.2,"2-Hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate, 2-O,3-Dimethylflaviolin"
+NEDC086,C11H8O6,M-H,C11H8O6-H-,235.0247896,0.2,"2-Carboxy-2-hydroxy-8-carboxychromene, 2-Hydroxy-3-carboxybenzalpyruvate, 3,6,7,8-Tetrahydroxy-2-naphthoate"
+NEDC087,C8H14O8,M-H,C8H14O8-H-,237.061569,0.2,"3-Deoxy-D-manno-octulosonate, Ketodeoxyoctonic acid"
+NEDC088,C14H8O4,M-H,C14H8O4-H-,239.0349603,0.2,"Alizarin, Danthron, Anthrafravic acid"
+NEDC089,C11H12O6,M-H,C11H12O6-H-,239.0560897,0.2,"(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate"
+NEDC090,C6H11O8P,M-H,C6H11O8P-H-,241.0118554,0.2,"D-myo-Inositol 1,2-cyclic phosphate, 6-Deoxy-5-ketofructose 1-phosphate"
+NEDC091,C14H10O4,M-H,C14H10O4-H-,241.0506104,0.2,"Cyperaquinone, 2-Hydroxy-2H-benzo[h]chromene-2-carboxylate, cis-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate, 3-(2-Carboxyvinyl)naphthalene-2-carboxylic acid, 4-(3-Hydroxy-2-naphthyl)-2-oxobut-3-enoic acid, Benzoyl peroxide"
+NEDC092,C13H8O5,M-H,C13H8O5-H-,243.0298749,0.2,"Gentisein, Mesuaxanthone B, 1,3,5-Trihydroxyxanthone"
+NEDC093,C14H12O4,M-H,C14H12O4-H-,243.0662604,0.2,"Piceatannol, Wyerone acid, Eriobofuran, Fulvoplumierin, Oxyresveratrol, Methylstyrylpyron, 2,2'-Dihydroxy-4-methoxybenzophenone"
+NEDC094,C14H16N2O2,M-H,C14H16N2O2-H-,243.1138794,0.2,"Etomidate, Cyclo(L-Phe-L-Pro), 3,3'-Dimethoxybenzidine"
+NEDC095,C4H9O6PS,M+Cl,C4H9O6PS+Cl-,250.9551246,0.2,S-Methyl-3-phospho-1-thio-D-glycerate
+NEDC096,C7H14N2O6S,M-H,C7H14N2O6S-H-,253.0499585,0.2,5-L-Glutamyl-taurine
+NEDC097,C15H10O4,M-H,C15H10O4-H-,253.0506104,0.2,"Hispidol, Chrysin, Primetin, Anhydroglycinol, Daidzein, Alizarin 2-methyl ether, Chrysophanol, Digiferrugineol, 1,4-Dihydroxy-2-methylanthraquinone, Rubiadin, 7,4'-Dihydroxyflavone, 4',6-Dihydroxyflavone"
+NEDC098,C14H8O5,M-H,C14H8O5-H-,255.0298749,0.2,"Anthragallol, Purpurin"
+NEDC099,C15H12O4,M-H,C15H12O4-H-,255.0662604,0.2,"3,9-Dihydroxypterocarpan, Isoliquiritigenin, Liquiritigenin, Pinocembrin, Hydrangenol, 3',5'-Dihydroxyflavanone, Pinocembrin chalcone, Aloe emodin anthrone, cis-3,4-Phenanthrenedihydrodiol-4-carboxylate"
+NEDC100,C15H16N2O2,M-H,C15H16N2O2-H-,255.1138794,0.2,"Ancymidol, Albonoursin"
+NEDC101,C16H32O2,M-H,C16H32O2-H-,255.2329318,0.2,Hexadecanoic acid
+NEDC102,C8H19O3PS2,M-H,C8H19O3PS2-H-,257.044024,0.2,"Demeton-O, Demeton-S"
+NEDC103,C14H10O5,M-H,C14H10O5-H-,257.045525,0.2,"Gentisin, Isogentisin, Mesuaxanthone A, Norlichexanthone, Kigelinone, Alternariol, Norrubrofusarin, 3-Carbethoxypsoralen"
+NEDC104,C15H14O4,M-H,C15H14O4-H-,257.0819105,0.2,"Wyerone, Luvangetin, Peucedanin, Davidigenin, Yangonin, Lunularic acid, Hibiscoquinone A, 2,2-Bis(4-hydroxyphenyl)-propanoic acid, 2-Naphtylmethylsuccinic acid, Catalpalactone"
+NEDC105,C6H13O9P,M-H,C6H13O9P-H-,259.0224201,0.2,"D-Fructose 6-phosphate, D-Glucose 6-phosphate, D-Glucose 1-phosphate, D-Mannose 6-phosphate, alpha-D-Galactose 1-phosphate, D-Mannose 1-phosphate, beta-D-Glucose 1-phosphate, alpha-D-Glucose 6-phosphate, Hexose 1-phosphate, D-Fructose 1-phosphate, D-Tagatose 6-phosphate, D-Galactose 6-phosphate, alpha-D-Hexose 1-phosphate, beta-D-Glucose 6-phosphate, Inositol 1-phosphate, Sorbose 1-phosphate, D-Allose 6-phosphate, D-Hexose 6-phosphate, Aldohexose 6-phosphate, beta-D-Fructose 2-phosphate, D-Galactose 1-phosphate, myo-Inositol 4-phosphate, D-Hamamelose 2(1)-phosphate, (3S,4R)-Ketose 1-phosphate, alpha-D-Hexose 6-phosphate, alpha-D-Glucose 3-phosphate, 1D-myo-Inositol 3-phosphate, Fructose 1-phosphate(pyranose), beta-D-Fructose 6-phosphate, D-arabino-Hex-3-ulose 6-phosphate, myo-Inositol 5-phosphate, L-Tagatose 6-phosphate, L-Gulose 1-phosphate, beta-L-Galactose 1-phosphate, D-Allulose 6-phosphate, Fructose 3-phosphate"
+NEDC106,C7H17O4PS2,M-H,C7H17O4PS2-H-,259.0232886,0.2,Oxydeprofos
+NEDC107,C13H8O6,M-H,C13H8O6-H-,259.0247896,0.2,"Demethylbellidifolin, Norathyriol, Norswertianin"
+NEDC108,C13H10O6,M-H,C13H10O6-H-,261.0404396,0.2,"Maclurin, 2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate"
+NEDC109,C16H10O4,M-H,C16H10O4-H-,265.0506104,0.2,"Phenanthrene-4,5-dicarboxylate"
+NEDC110,C15H8O5,M-H,C15H8O5-H-,267.0298749,0.2,Coumestrol
+NEDC111,C16H12O4,M-H,C16H12O4-H-,267.0662604,0.2,"Formononetin, Dalbergin, Tectochrysin, Isoformononetin, 1-[6-Hydroxy-2-(4-hydroxyphenyl)-1-benzofuran-3-yl]ethanone, 6-Hydroxy-2'-methoxyflavone"
+NEDC112,C9H16O9,M-H,C9H16O9-H-,267.0721337,0.05,"2-O-(alpha-D-Mannosyl)-D-glycerate, 2-O-(alpha-D-Glucopyranosyl)-D-glycerate, 3-Deoxy-D-glycero-D-galacto-non-2-ulosonic acid"
+NEDC113,C15H10O5,M-H,C15H10O5-H-,269.045525,0.2,"Apigenin, 2'-Hydroxydaidzein, Genistein, Sulphuretin, Baicalein, Resokaempherol, Galangin, Norwogonin, Aloe-emodin, Emodin, Lucidin, Morindone, Norobtusifolin, Purpurin 1-methyl ether, 3',4',7-Trihydroxyisoflavone, 4',6,7-Trihydroxyisoflavone, 3,6,4'-Trihydroxyflavone, Islandicin"
+NEDC114,C15H13NO4,M-H,C15H13NO4-H-,270.0771595,0.2,"N-Benzoyl-4-methoxyanthranilate, trans-2-(4-Methoxyphenyl)-3-(4-nitrophenyl)oxirane"
+NEDC115,C15H12O5,M-H,C15H12O5-H-,271.0611751,0.2,"Naringenin, 3,6,9-Trihydroxypterocarpan, Licodione, 2'-Hydroxydihydrodaidzein, Naringenin chalcone, Butein, Rubrofusarin, Butin, Garbanzol, Pinobanksin, p-Coumaroyltriacetic acid lactone, Dihydrogenistein, 2,7,4'-Trihydroxyisoflavanone, 6,7,4'-Trihydroxyflavanone, Toralactone"
+NEDC116,C14H10O6,M-H,C14H10O6-H-,273.0404396,0.2,"Athyriol, Bellidifolin, Isoathyriol, Swertianin, 2,2',4,4'-Tetrahydroxybenzil"
+NEDC117,C9H10BrNO2S,M-H,C9H10BrNO2S-H-,273.9542638,0.2,S-(4-Bromophenyl)-L-cysteine
+NEDC118,C6H15NO7P2,M-H,C6H15NO7P2-H-,274.0250764,0.2,Phosphophosphinate
+NEDC119,C10H17N3O6,M-H,C10H17N3O6-H-,274.1044369,0.2,"(5-L-Glutamyl)-L-glutamine, N-Succinyl-L-citrulline"
+NEDC120,C18H30O2,M-H,C18H30O2-H-,277.2172818,0.2,"(6Z,9Z,12Z)-Octadecatrienoic acid, (9Z,12Z,15Z)-Octadecatrienoic acid, Crepenynate, (9Z,11E,13E)-Octadecatrienoic acid, Punicic acid, 5beta-Estrane-3alpha,17beta-diol"
+NEDC121,C18H32O2,M-H,C18H32O2-H-,279.2329318,0.2,"Linoleate, Rumenic acid, Chaulmoogric acid, Malvalic acid, Stearolic acid"
+NEDC122,C10H18O9,M-H,C10H18O9-H-,281.0877837,0.2,"Xylobiose, beta-L-Arabinofuranosyl-(1->2)-beta-L-arabinofuranose, alpha-1,5-L-Arabinobiose"
+NEDC123,C18H34O2,M-H,C18H34O2-H-,281.2485819,0.2,"(9Z)-Octadecenoic acid, (9E)-Octadecenoic acid, (6Z)-Octadecenoic acid, (11E)-Octadecenoic acid, omega-Cycloheptylundecanoic acid, cis-Vaccenic acid"
+NEDC124,C15H8O6,M-H,C15H8O6-H-,283.0247896,0.2,Rhein
+NEDC125,C16H12O5,M-H,C16H12O5-H-,283.0611751,0.2,"Biochanin A, Questin, Acacetin, Calycosin, 2'-Hydroxyformononetin, Genkwanin, Geraldone, Wogonin, Cypripedin, Lucidin omega-methyl ether, (-)-Maackiain, Melannin, Prunetin, Texasin, 3-Methylgalangin, Glycitein, (+)-Maackiain, Obtusifolin, Physcion"
+NEDC126,C18H36O2,M-H,C18H36O2-H-,283.264232,0.2,"Octadecanoic acid, Isooctadecanoic acid"
+NEDC127,C15H10O6,M-H,C15H10O6-H-,285.0404396,0.2,"Luteolin, Kaempferol, Aureusidin, Maritimetin, Datiscetin, Fisetin, Isoscutellarein, Scutellarein, Orobol, 2'-Hydroxygenistein, 6-Demethoxycapillarisin, Citreorosein"
+NEDC128,C16H14O5,M-H,C16H14O5-H-,285.0768251,0.2,"(-)-Vestitone, Dihydrobiochanin A, 2'-O-Methyllicodione, Isosakuranetin, Moracin A, Sainfuran, Quinquangulin, Oxypeucedanin, Sakuranetin, Brazilin, 2',4',6'-Trihydroxy-3'-formyldihydrochalcone, Phyllodulcin, (-)-Nissolin, (S)-DNPA, 2,7-Dihydroxy-4'-methoxyisoflavanone, (R)-DNPA"
+NEDC129,C15H12O6,M-H,C15H12O6-H-,287.0560897,0.2,"Dihydrokaempferol, Fustin, Eriodictyol, Okanin, Micromelin, 3,5-Dimethoxy-1,6-dihydroxyxanthone, Gentiacaulein, 2-O-Methylswertianin, Swerchirin, (+-)-Dalbergioidin, 2-Hydroxy-2,3-dihydrogenistein, Eriodictyol chalcone, 2,6,7,4'-Tetrahydroxyisoflavanone, Carthamidin"
+NEDC130,C15H14O6,M-H,C15H14O6-H-,289.0717397,0.2,"cis-3,4-Leucopelargonidin, Luteoforol, (+)-Catechin, alpha-Cotonefuran, 2,8-Dihydroxy-3,4,7-trimethoxydibenzofuran, Ptaeroglycol, Mikanolide, (-)-Epicatechin, (+)-Epicatechin, Fisetinidol-4beta-ol, Isoplumericin, Plumericin, (-)-Catechin, Catechin"
+NEDC131,C18H18N2O2,M-H,C18H18N2O2-H-,293.1295294,0.2,"2-[3-Ethyl-5-(4-methoxyphenyl)-1H-pyrazol-4-yl]phenol, 9-(Dimethylallyl)-5,10-dihydrophenazine-1-carboxylate"
+NEDC132,C14H16O7,M-H,C14H16O7-H-,295.0823044,0.2,Dehypoxanthine futalosine
+NEDC133,C16H10O6,M-H,C16H10O6-H-,297.0404396,0.2,"Bowdichione, Irilone, 2',7-Dihydroxy-4',5'-methylenedioxyisoflavone, Aflatoxin P1, 5-Hydroxypseudobaptigenin"
+NEDC134,C16H12O6,M-H,C16H12O6-H-,299.0560897,0.2,"Chrysoeriol, 3-Methoxyapigenin, Leptosidin, Diosmetin, Hispidulin, Kaempferide, Cajanin, Pratensein, Tectorigenin, 2'-Hydroxybiochanin A, (+)-Sophorol, (-)-Sophorol, (+)-6a-Hydroxymaackiain, Rhamnocitrin, Questinol"
+NEDC135,C15H10O7,M-H,C15H10O7-H-,301.0353542,0.2,"Quercetin, 8-Hydroxykaempferol, 2'-Hydroxypseudobaptigenin, Bracteatin, 6-Hydroxykaempferol, 6-Hydroxyluteolin, Hypolaetin, Isoetin, Morin, Robinetin, Tricetin, 2-(4-Hydroxyphenyl)-5,6,7,8-tetrahydroxy-4H-1-benzopyran-4-one"
+NEDC136,C16H14O6,M-H,C16H14O6-H-,301.0717397,0.2,"Hesperetin, Homoeriodictyol, Haematoxylin, Nanafrocin, Ferreirin, Dihydrokalafungin, Homoeriodictyol chalcone"
+NEDC137,C12H21N3O6,M-H,C12H21N3O6-H-,302.135737,0.2,Nicotianamine
+NEDC138,C15H12O7,M-H,C15H12O7-H-,303.0510043,0.2,"Taxifolin, Pentahydroxyflavanone, cis-Dihydroquercetin"
+NEDC139,C16H16O6,M-H,C16H16O6-H-,303.0873898,0.2,"beta-Cotonefuran, 6-Methoxy-alpha-pyrufuran, (S)-Chiral alcohol, (S)-Hemiketal, Dihydrokalafungin dihydroquinone form, Griseophenone C"
+NEDC140,C12H20N2O7,M-H,C12H20N2O7-H-,303.1197526,0.2,2'-Deoxymugineic acid
+NEDC141,C10H17N3O6S,M-H,C10H17N3O6S-H-,306.0765076,0.2,Glutathione
+NEDC142,C18H13NO4,M-H,C18H13NO4-H-,306.0771595,0.2,Stealthin C
+NEDC143,C17H10O6,M-H,C17H10O6-H-,309.0404396,0.2,6-Demethylsterigmatocystin
+NEDC144,C17H12O6,M-H,C17H12O6-H-,311.0560897,0.2,"Aspulvinone G, Aflatoxin B1, Betavulgarin, Dihydrodemethylsterigmatocystin"
+NEDC145,C18H16O5,M-H,C18H16O5-H-,311.0924752,0.2,"Baicalein 5,6,7-trimethyl ether, 3,5,7-Trimethoxyflavone, Ophiopogonone B, R1128B"
+NEDC146,C17H14O6,M-H,C17H14O6-H-,313.0717397,0.2,"Ventinone A, Irisolidone, Pisatin, 6-Hydroxy-2-(4-hydroxyphenyl)-5,7-dimethoxy-4H-1-benzopyran-4-one, Pinobanksin 3-O-acetate, Aflatoxin B2, 4'-Methylcapillarisin, 7-Methylcapillarisin, Aflatoxicol"
+NEDC147,C16H12O7,M-H,C16H12O7-H-,315.0510043,0.2,"3-O-Methylquercetin, Capillarisin, Azaleatin, Isorhamnetin, Pedalitin, Pinoquercetin, Rhamnetin, Sexangularetin, Tamarixetin, 3'-O-Methyltricetin"
+NEDC148,C17H16O6,M-H,C17H16O6-H-,315.0873898,0.2,"Cajanol, Homoferreirin, 2,3-Dihydro-6-hydroxy-2-(4-hydroxyphenyl)-5,7-dimethoxy-4H-1-benzopyran-4-one, Isobyakangelicol, Byakangelicol, Neobyakangelicol"
+NEDC149,C15H10O8,M-H,C15H10O8-H-,317.0302689,0.2,"Gossypetin, Myricetin, Quercetagetin"
+NEDC150,C16H19BrN2,M-H,C16H19BrN2-H-,317.0658631,0.2,Brompheniramine
+NEDC151,C16H14O7,M-H,C16H14O7-H-,317.0666544,0.2,"Lecanoric acid, Demethylsulochrin"
+NEDC152,C15H12O8,M-H,C15H12O8-H-,319.0459189,0.2,"Dihydromyricetin, 2,3-Dihydrogossypetin, 2,2',3-Trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl"
+NEDC153,C15H20N2O4S,M-H,C15H20N2O4S-H-,323.1070795,0.2,"Acetohexamide, HMR1556, Chromanol 293B"
+NEDC154,C18H28O3S,M-H,C18H28O3S-H-,323.1686171,0.2,Piperonyl sulfoxide
+NEDC155,C18H14O6,M-H,C18H14O6-H-,325.0717397,0.2,"Jacareubin, Ophiopogonone A, Dihydrosterigmatocystin"
+NEDC156,C17H12O7,M-H,C17H12O7-H-,327.0510043,0.2,"(-)-Acanthocarpan, Aflatoxin G1, Aflatoxin M1, Aflatoxin Q1, Aflatoxin B1-exo-8,9-epoxide, Aflatoxin B1-endo-8,9-epoxide"
+NEDC157,C18H16O6,M-H,C18H16O6-H-,327.0873898,0.2,"Betagarin, 6-Hydroxy-2-(4-methoxyphenyl)-5,7-dimethoxy-4H-1-benzopyran-4-one, 2-(4-Hydroxyphenyl)-5,6,7-trimethoxy-4H-1-benzopyran-4-one, 7-Hydroxy-2',4',5'-trimethoxyisoflavone, 9-Demethylmunduserone, Ophiopogonanone A"
+NEDC158,C17H14O7,M-H,C17H14O7-H-,329.0666544,0.2,"3,7-Di-O-methylquercetin, (+)-Bisdechlorogeodin, (-)-Bisdechlorogeodin, Cirsiliol, Tricin, Hildecarpin, Aflatoxin G2, Aurantio-obtusin"
+NEDC159,C17H16O7,M-H,C17H16O7-H-,331.0823044,0.2,Sulochrin
+NEDC160,C9H19O11P,M-H,C9H19O11P-H-,333.0591995,0.2,"sn-Glycero-3-phospho-1-inositol, 2-(alpha-D-Galactosyl)-sn-glycerol 3-phosphate, alpha-D-Galactosyl-(1,1')-sn-glycerol 3-phosphate, 2-(alpha-D-Glucosyl)-sn-glycerol 3-phosphate"
+NEDC161,C16H14O8,M-H,C16H14O8-H-,333.061569,0.2,"6-Methoxytaxifolin, 5,5'-Dehydrodivanillate"
+NEDC162,C12H18O11,M-H,C12H18O11-H-,337.077613,0.2,L-Ascorbic acid-2-glucoside
+NEDC163,C12H22O11,M-H,C12H22O11-H-,341.1089131,0.1,"Sucrose, Cellobiose, Maltose, Lactose, Isomaltose, alpha-Maltose, alpha,alpha-Trehalose, alpha-D-Galactosyl-(1->3)-1D-myo-inositol, Nigerose, Inulobiose, Levanbiose, Mannobiose, Palatinose, beta-Lactose, beta-Maltose, Laminaribiose, 4-O-beta-D-Glucopyranosyl-D-mannose, alpha-D-Glucosyl-(1,3)-D-mannose, alpha-D-Aldosyl beta-D-fructoside, Epimelibiose, Melibiose, alpha-Cellobiose, beta-Cellobiose, Lactulose, Gentiobiose, Sophorose, 2-alpha-D-Glucosyl-D-glucose, beta-D-Fructofuranosyl-alpha-D-mannopyranoside, Kojibiose, Maltulose, Melibiulose, Turanose, 3-O-alpha-D-Mannopyranosyl-alpha-D-mannopyranose, 4-O-beta-D-Mannopyranosyl-D-glucopyranose, Mannobiose, beta-1,2-Mannobiose"
+NEDC164,C18H16O7,M-H,C18H16O7-H-,343.0823044,0.2,"3,7,4'-Tri-O-methylquercetin, Cirsilineol, Eupatilin, (-)-Usnic acid, Nevadensin, Pachypodol, Santin, Tambulin, Xanthomicrol, Obtusin, 3',4',5'-O-Trimethyltricetin"
+NEDC165,C19H20O6,M-H,C19H20O6-H-,343.1186899,0.2,"Calaxin, Deoxyelephantopin, Echinone, 2,3-Dihydro-2-(4-methoxyphenyl)-5,6,7-trimethoxy-4H-1-benzopyran-4-one"
+NEDC166,C16H24O8,M-H,C16H24O8-H-,343.1398193,0.2,"8-Epiiridotrial glucoside, Iridotrial glucoside"
+NEDC167,C17H14O8,M-H,C17H14O8-H-,345.061569,0.2,"Tomentin, Taxifolin 3-O-acetate, Axillarin, Syringetin, Eupatolitin, Aflatoxin B1 diol, Aflatoxin B1 dialdehyde"
+NEDC168,C11H20O10,M+Cl,C11H20O10+Cl-,347.0750262,0.2,"Vicianose, Arabino-galactose, 6-O-beta-D-Xylopyranosyl-D-glucose, 6-O-(beta-D-Xylopyranosyl)-beta-D-glucopyranose"
+NEDC169,C20H14O6,M-H,C20H14O6-H-,349.0717397,0.2,"Alteichin, Tetracenomycin B1"
+NEDC170,C12H22N3O7P,M-H,C12H22N3O7P-H-,350.1122381,0.2,N-Acetyldemethylphosphinothricin tripeptide
+NEDC171,C19H20N2O3S,M-H,C19H20N2O3S-H-,355.1121648,0.2,Pioglitazone
+NEDC172,C20H20O6,M-H,C20H20O6-H-,355.1186899,0.2,"Kievitone, Plaunol B, Cubebin, Coniferyl ferulate, Leachianone G, Norsolorinic acid anthrone, Pluviatolide, (+)-Piperitol"
+NEDC173,C18H14O8,M-H,C18H14O8-H-,357.061569,0.2,Versiconal
+NEDC174,C14H12N6O6,M-H,C14H12N6O6-H-,359.0745337,0.2,Nitrovin
+NEDC175,C18H16O8,M-H,C18H16O8-H-,359.0772191,0.2,"Rosmarinate, Chrysosplenol D, 6-Methoxyaromadendrin 3-O-acetate, Acerosin, Chrysosplenol C, Oxyanin A, Oxyanin B, Thymonin, Arcapillin, Irigenin, Versiconol"
+NEDC176,C18H20N2O6,M-H,C18H20N2O6-H-,359.124838,0.2,"Nitrendipine, 3-Methoxytyramine-betaxanthin"
+NEDC177,C16H15N2O6P,M-H,C16H15N2O6P-H-,361.0594743,0.2,Fosphenytoin
+NEDC178,C19H23FO4,M+Cl,C19H23FO4+Cl-,369.1274167,0.1,"9-Fluoro-16alpha-hydroxyandrost-4-ene-3,11,17-trione"
+NEDC179,C19H17ClN2O4,M-H,C19H17ClN2O4-H-,371.0803863,0.2,Quizalofop-ethyl
+NEDC180,C12H20O11,M+Cl,C12H20O11+Cl-,375.0699408,0.1,"Cellobiono-1,5-lactone, 3-Ketolactose, 3-Ketosucrose"
+NEDC181,C12H22O11,M+Cl,C12H22O11+Cl-,377.0855908,0.05,"Sucrose, Cellobiose, Maltose, Lactose, Isomaltose, alpha-Maltose, alpha,alpha-Trehalose, alpha-D-Galactosyl-(1->3)-1D-myo-inositol, Nigerose, Inulobiose, Levanbiose, Mannobiose, Palatinose, beta-Lactose, beta-Maltose, Laminaribiose, 4-O-beta-D-Glucopyranosyl-D-mannose, alpha-D-Glucosyl-(1,3)-D-mannose, alpha-D-Aldosyl beta-D-fructoside, Epimelibiose, Melibiose, alpha-Cellobiose, beta-Cellobiose, Lactulose, Gentiobiose, Sophorose, 2-alpha-D-Glucosyl-D-glucose, beta-D-Fructofuranosyl-alpha-D-mannopyranoside, Kojibiose, Maltulose, Melibiulose, Turanose, 3-O-alpha-D-Mannopyranosyl-alpha-D-mannopyranose, 4-O-beta-D-Mannopyranosyl-D-glucopyranose, Mannobiose, beta-1,2-Mannobiose"
+NEDC182,C21H16O7,M-H,C21H16O7-H-,379.0823044,0.05,"Diphyllin, Tetracenomycin F1 methylester"
+NEDC183,C16H23N5O6,M-H,C16H23N5O6-H-,380.1575351,0.2,"O-beta-D-Glucosylzeatin, O-beta-D-Glucopyranosyl-cis-zeatin, trans-Zeatin-7-beta-D-glucoside"
+NEDC184,C14H24O12,M-H,C14H24O12-H-,383.1194778,0.2,Acetyl-maltose
+NEDC185,C24H48O3,M-H,C24H48O3-H-,383.353047,0.2,2-Hydroxytetracosanoic acid
+NEDC186,C15H18N2O8S,M-H,C15H18N2O8S-H-,385.0710879,0.2,(7R)-7-(4-Carboxybutanamido)cephalosporanate
+NEDC187,C22H18NO6,M-H,C22H18NO6-H-,391.1061139,0.2,Macarpine
+NEDC188,C14H12N6O6,M+Cl,C14H12N6O6+Cl-,395.0512115,0.2,Nitrovin
+NEDC189,C19H39O7P,M-H,C19H39O7P-H-,409.2360417,0.2,1-Palmitoylglycerol 3-phosphate
+NEDC190,C12H22O14S,M-H,C12H22O14S-H-,421.0657277,0.2,2-Sulfotrehalose
+NEDC191,C20H18O8,M+Cl,C20H18O8+Cl-,421.0695469,0.05,"Glucosyloxyanthraquinone, Cleomiscosin A, Daphneticin, Diferulic acid, Irisflorentin, 5'-Oxoaverantin, Versicolorone"
+NEDC192,C12H23O14P,M-H,C12H23O14P-H-,421.0752435,0.2,"alpha,alpha'-Trehalose 6-phosphate, Sucrose 6'-phosphate, Maltose 6'-phosphate, 6-Phospho-beta-D-glucosyl-(1,4)-D-glucose, Lactose 6'-phosphate, Sucrose 6-phosphate, beta-D-Fructofuranosyl-alpha-D-mannopyranoside 6F-phosphate, alpha-Maltose 1-phosphate, Bis(myo-inositol) 1,3'-phosphate"
+NEDC193,C15H26O14,M-H,C15H26O14-H-,429.1249571,0.2,2-O-[alpha-D-Glucopyranosyl-(1->6)-alpha-D-glucopyranosyl]-D-glycerate
+NEDC194,C21H22O10,M-H,C21H22O10-H-,433.1139985,0.2,"Naringenin 7-O-beta-D-glucoside, Phlorizin chalcone, 2',4,4',6'-Tetrahydroxychalcone 4'-O-glucoside, 8-C-Glucosylnaringenin"
+NEDC195,C21H39O7P,M-H,C21H39O7P-H-,433.2360417,0.2,Oleoylglycerone phosphate
+NEDC196,C21H20O8,M+Cl,C21H20O8+Cl-,435.0851969,0.05,"Flavonol 3-O-D-galactoside, Flavonol 3-O-beta-D-glucoside, Isoflavone 7-O-beta-D-glucoside, 4'-Demethylpodophyllotoxin, alpha-Peltatin, 2-[4-(Acetyloxy)phenyl]-5,6,7,8-tetramethoxy-4H-1-benzopyran-4-one, Flavonol 3-O-D-glycoside, 4'-Demethylepipodophyllotoxin"
+NEDC197,C23H21ClN2O5,M-H,C23H21ClN2O5-H-,439.1066011,0.2,RSL3
+NEDC198,C20H24O9S,M-H,C20H24O9S-H-,439.1068047,0.2,Hallactone B
+NEDC199,C22H22O10,M-H,C22H22O10-H-,445.1139985,0.2,"Biochanin A-beta-D-glucoside, Obtusifolin 2-glucoside, Physcion 8-glucoside, Trifolirhizin, Glycitin, Swertisin, Dihydrogranaticin"
+NEDC200,C22H22O8,M+Cl,C22H22O8+Cl-,449.100847,0.1,"Picropodophyllin, Podophyllotoxin"
+NEDC201,C20H26N2O8S,M-H,C20H26N2O8S-H-,453.1336881,0.2,Sirodesmin H
+NEDC202,C28H22O6,M-H,C28H22O6-H-,453.13434,0.2,"Gnetin A, epsilon-Viniferin"
+NEDC203,C12H22N4O11P2,M-H,C12H22N4O11P2-H-,459.0687321,0.2,CDP-N-methylethanolamine
+NEDC204,C22H22O11,M-H,C22H22O11-H-,461.1089131,0.2,"Isoscoparine, 6-Methoxyluteolin 7-rhamnoside, Swertiajaponin, Tectoridin, Homoplantaginin"
+NEDC205,C22H24O11,M-H,C22H24O11-H-,463.1245632,0.2,Hesperetin 7-O-glucoside
+NEDC206,C19H24N6O5S2,M-H,C19H24N6O5S2-H-,479.117661,0.2,Cefepime
+NEDC207,C23H24O12,M-H,C23H24O12-H-,491.1194778,0.2,Aurantio-obtusin beta-D-glucoside
+NEDC208,C23H28O12,M-H,C23H28O12-H-,495.1507779,0.2,Mycophenolic acid O-acyl-glucuronide
+NEDC209,C18H32O16,M-H,C18H32O16-H-,503.1617365,0.1,"Raffinose, Panose, Galactomannan, Maltotriose, Isomaltotriose, 6-alpha-Maltosylglucose, 1F-beta-D-Fructosylsucrose, 6F-alpha-D-Galactosylsucrose, D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose, Cellotriose, Gentianose, Melezitose, Umbelliferose, beta-1,2-Mannotriose"
+NEDC210,C25H22N4O8,M-H,C25H22N4O8-H-,505.1364653,0.2,Streptonigrin
+NEDC211,C24H30O13,M-H,C24H30O13-H-,525.1613426,0.2,Inumakilactone A glycoside
+NEDC212,C18H32O16,M+Cl,C18H32O16+Cl-,539.1384143,0.05,"Raffinose, Panose, Galactomannan, Maltotriose, Isomaltotriose, 6-alpha-Maltosylglucose, 1F-beta-D-Fructosylsucrose, 6F-alpha-D-Galactosylsucrose, D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose, Cellotriose, Gentianose, Melezitose, Umbelliferose, beta-1,2-Mannotriose"
+NEDC213,C32H42O8,M-H,C32H42O8-H-,553.2806699,0.2,Acrovestone
+NEDC214,C25H32O14,M-H,C25H32O14-H-,555.1719073,0.2,"7-Dehydrologanin tetraacetate, Deutzioside pentaacetate"
+NEDC215,C26H28O14,M-H,C26H28O14-H-,563.1406072,0.2,"Apigenin 7-O-[beta-D-apiosyl-(1->2)-beta-D-glucoside], Neoschaftoside, Schaftoside, Isovitexin 2''-O-arabinoside, Glucofrangulin B"
+NEDC216,C30H28O12,M-H,C30H28O12-H-,579.1507779,0.2,"Gambiriin A1, Gambiriin A2, Gambiriin A3"
+NEDC217,C29H30O13,M-H,C29H30O13-H-,585.1613426,0.2,"Amarogentin, Phyllanthostatin A"
+NEDC218,C29H30O14,M-H,C29H30O14-H-,601.1562572,0.2,Amaroswerin
+NEDC219,C28H32O15,M-H,C28H32O15-H-,607.1668219,0.2,"Diosmin, Physcion 8-gentiobioside, Spinosin, Isospinosin"
+NEDC220,C28H34O15,M-H,C28H34O15-H-,609.182472,0.2,"Hesperidin, Neohesperidin"
+NEDC221,C28H34O15,M+Cl,C28H34O15+Cl-,645.1591497,0.2,"Hesperidin, Neohesperidin"
+NEDC222,C31H34O15,M-H,C31H34O15-H-,645.182472,0.2,"8-Demethyl-8-(2,3,4-tri-O-methyl-alpha-L-rhamnosyl)tetracenomycin C"
+NEDC223,C32H36O15,M-H,C32H36O15-H-,659.198122,0.2,Elloramycin A
+NEDC224,C24H42O21,M-H,C24H42O21-H-,665.2145599,0.2,"Glycogen, Stachyose, Cellotetraose, Maltotetraose, Isolychnose, 1,3-alpha-D-Mannosyl-1,2-alpha-D-mannosyl-1,2-alpha-D-mannosyl-D-mannose, Lychnose, Sesamose, alpha-Isomaltosyl-1,3-isomaltose"
+NEDC225,C37H71O8P,M-H,C37H71O8P-H-,673.4813573,0.2,1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphate
